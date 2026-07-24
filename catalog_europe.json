@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "generatedAt": "2026-07-24",
  "region": "europe",
  "items": [
@@ -875,19 +875,6 @@
    "source": "scrape"
   },
   {
-   "id": "motelrocks-15475565855102",
-   "brand": "Motel Rocks",
-   "name": "Edwina Off The Shoulder Mini Dress in Black",
-   "category": "dress",
-   "color": "black",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/EDWINA-OFF-THE-SHOULDER-MINI-DRESS-BLACK8655-copy.jpg?v=1753756675",
-   "productUrl": "https://www.motelrocks.com/products/edwina-off-the-shouldr-mini-dress-black",
-   "price": 41.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
    "id": "motelrocks-15460751573374",
    "brand": "Motel Rocks",
    "name": "Murphy Knee Length Skirt in Black",
@@ -1560,6 +1547,19 @@
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/LETIRIA-DRESS-MCR-POLKA-BTR-YELLOW-58137.jpg?v=1783587140",
    "productUrl": "https://www.motelrocks.com/products/letiria-dress-mcr-polka-btr-yellow-cr05",
    "price": 38.0,
+   "currency": "GBP",
+   "source": "scrape"
+  },
+  {
+   "id": "motelrocks-15926541877630",
+   "brand": "Motel Rocks",
+   "name": "Ione Quarter Sleeve Top in Deep Pink",
+   "category": "shirt",
+   "color": "pink",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/IONE-QRTR-SLV-TOP-DEEP-PINK-_8518.jpg?v=1783587304",
+   "productUrl": "https://www.motelrocks.com/products/ione-qrtr-slv-top-deep-pink-pk17",
+   "price": 35.0,
    "currency": "GBP",
    "source": "scrape"
   },
