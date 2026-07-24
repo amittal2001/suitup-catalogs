@@ -7,20 +7,18 @@ Purpose: the public web presence affiliate networks (Sovrn, AWIN, Rakuten,
 Skimlinks) check during publisher review, plus the privacy-policy URL Google
 Play requires. Includes the affiliate disclosure both networks want to see.
 
-## Deploy to GitHub Pages (free)
+## Deploy to GitHub Pages (automated)
 
-Simplest path — host it in the PUBLIC `suitup-catalogs` repo you already have:
+Publishing is automatic: the `website-publish` GitHub Action
+(.github/workflows/website-publish.yml) copies this folder to
+`suitup-catalogs/docs/` on every push to `main` that touches `website/`
+(same `CATALOGS_PUSH_TOKEN` secret as the catalog refresh). You can also
+trigger it manually from the Actions tab.
 
-```bash
-cd Desktop/suitup-catalogs
-mkdir -p docs
-cp ../fashai/website/* docs/
-git add -A && git commit -m "landing page" && git push
-```
-
-Then: suitup-catalogs repo → Settings → Pages → Source: Deploy from a branch →
-Branch `main`, folder `/docs` → Save. Site appears at
-`https://amittal2001.github.io/suitup-catalogs/` within a minute.
+One-time setup after the first run: suitup-catalogs repo → Settings → Pages →
+Source: Deploy from a branch → Branch `main`, folder `/docs` → Save. Site
+appears at `https://amittal2001.github.io/suitup-catalogs/` within a minute;
+later edits go live on push with no manual steps.
 
 ## Custom domain (recommended before affiliate applications)
 
