@@ -335,21 +335,6 @@
    "currencyOriginal": "GBP"
   },
   {
-   "id": "motelrocks-8445113041070",
-   "brand": "Motel Rocks",
-   "name": "Nidya A-line Mini Skirt in Textured Mesh Black",
-   "category": "skirt",
-   "color": "black",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/NIDYA-ALINE-MINI-SKIRT-TEXTURED-MESH-BLACK.jpg?v=1727664315",
-   "productUrl": "https://www.motelrocks.com/products/nidya-aline-mn-skirt-txtured-mesh-black",
-   "price": 49.0,
-   "currency": "ILS",
-   "source": "scrape",
-   "priceOriginal": 12.0,
-   "currencyOriginal": "GBP"
-  },
-  {
    "id": "motelrocks-8253959405742",
    "brand": "Motel Rocks",
    "name": "Jepuni Cami Top in Adrenaline Red",
@@ -902,6 +887,21 @@
    "currency": "ILS",
    "source": "scrape",
    "priceOriginal": 19.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-8474728399022",
+   "brand": "Motel Rocks",
+   "name": "Derika V Waist Maxi Skirt in Cream",
+   "category": "skirt",
+   "color": "beige",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DERIKA-V-WAIST-MAXI-SKIRT-CREAM-4.jpg?v=1742867613",
+   "productUrl": "https://www.motelrocks.com/products/derika-v-waist-maxi-skirt-cream-1",
+   "price": 86.0,
+   "currency": "ILS",
+   "source": "scrape",
+   "priceOriginal": 21.0,
    "currencyOriginal": "GBP"
   },
   {

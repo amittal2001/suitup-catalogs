@@ -3050,21 +3050,6 @@
    "currencyOriginal": "USD"
   },
   {
-   "id": "allbirds-7215632482384",
-   "brand": "Allbirds",
-   "name": "Men's Wool Runner NZ Waterproof - Natural Black (Natural Black Sole)",
-   "category": "sneakers",
-   "color": "black",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12019_25Q3_Wool-Runner-NZ-Waterproof-Natural-Black-Natural-Black-Sole_PDP_LEFT.png?v=1757523355",
-   "productUrl": "https://www.allbirds.com/products/mens-wool-runner-nz-waterproof-natural-black",
-   "price": 150.0,
-   "currency": "USD",
-   "source": "scrape",
-   "priceOriginal": 150.0,
-   "currencyOriginal": "USD"
-  },
-  {
    "id": "allbirds-7215632023632",
    "brand": "Allbirds",
    "name": "Men's Wool Runner NZ Mid Waterproof - Natural Black (Natural White Sole)",
@@ -3152,6 +3137,21 @@
    "currency": "USD",
    "source": "scrape",
    "priceOriginal": 27.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "allbirds-7235055943760",
+   "brand": "Allbirds",
+   "name": "Women's Tree Runner NZ - Luxe Gold (Stony Cream Sole)",
+   "category": "sneakers",
+   "color": "beige",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1104/4168/files/A12088_25Q3_Tree-Runner-NZ-Luxe-Gold-Stony-Cream-Sole_PDP_LEFT_71c2ec94-d80c-4888-95e4-2b6071ed85e9.png?v=1761755515",
+   "productUrl": "https://www.allbirds.com/products/womens-tree-runner-nz-luxe-gold",
+   "price": 80.0,
+   "currency": "USD",
+   "source": "scrape",
+   "priceOriginal": 80.0,
    "currencyOriginal": "USD"
   },
   {
