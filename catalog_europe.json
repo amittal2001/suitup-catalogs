@@ -1,7 +1,8 @@
 {
- "version": 6,
- "generatedAt": "2026-07-27",
+ "version": 7,
+ "generatedAt": "2026-07-31",
  "region": "europe",
+ "currency": "EUR",
  "items": [
   {
    "id": "percivalclo-16001398178172",
@@ -12,9 +13,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PercivalxFord_CanvasJacket_77090009.jpg?v=1784103575",
    "productUrl": "https://percivalclo.com/products/gt40-embroidered-canvas-jacket-ford-x-percival-navy",
-   "price": 180.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 210.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 180.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16001369112956",
@@ -25,9 +28,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/TripleTriumphLongSleeveTShirt_FORD_PERCIVAL_MENSWEAR6.jpg?v=1783591489",
    "productUrl": "https://percivalclo.com/products/triple-triumph-long-sleeve-t-shirt-percival-x-ford-white",
-   "price": 70.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 82.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 70.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16001368916348",
@@ -38,9 +43,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Le_Mans_Oversized_Tshirt_PercivalxFord_CloseUp.jpg?v=1784043416",
    "productUrl": "https://percivalclo.com/products/le-mans-oversized-t-shirt-ford-x-percival-white",
-   "price": 65.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 76.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 65.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16001368818044",
@@ -51,9 +58,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/GT40PrintedRegularTShirt_FORD_PERCIVAL_MENSWEAR.jpg?v=1783589717",
    "productUrl": "https://percivalclo.com/products/gt40-archive-t-shirt-ford-x-percival-cream",
-   "price": 60.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 60.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16001368752508",
@@ -64,9 +73,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PercivalxFord_GardnerKnittedCardigan_7708001_CloseUp.jpg?v=1784195942",
    "productUrl": "https://percivalclo.com/products/gardner-knitted-zip-cardigan-ford-x-percival-blue",
-   "price": 170.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 198.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 170.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16001368654204",
@@ -77,9 +88,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Miles_Shirt_PercivalxFord_2.jpg?v=1784032431",
    "productUrl": "https://percivalclo.com/products/miles-garage-embroidered-shirt-ford-x-percival-beige",
-   "price": 130.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 152.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 130.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16007130546556",
@@ -90,9 +103,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Lucas_Carpenter_Trousers_PERCIVAL_MENSWEAR.jpg?v=1783334814",
    "productUrl": "https://percivalclo.com/products/lucas-carpenter-straight-leg-trousers-cotton-mocha",
-   "price": 130.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 152.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 130.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16007126417788",
@@ -103,9 +118,26 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/W7A1268-2.jpg?v=1783433548",
    "productUrl": "https://percivalclo.com/products/straight-leg-heritage-denim-jeans-cotton-mid-wash-blue",
-   "price": 120.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 140.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 120.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "percivalclo-16007126221180",
+   "brand": "Percival",
+   "name": "Straight Leg Heritage Denim Jeans | Cotton | Raw",
+   "category": "jeans",
+   "color": "blue",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Straight_Leg_Heritage_Jeans_Raw_PERCIVAL_MENSWEAR.jpg?v=1783335619",
+   "productUrl": "https://percivalclo.com/products/straight-leg-heritage-denim-jeans-cotton-raw",
+   "price": 140.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 120.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16007125893500",
@@ -116,9 +148,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Straight_Leg_Jeans_Black_PERCIVAL_MENSWEAR2.jpg?v=1783335497",
    "productUrl": "https://percivalclo.com/products/straight-leg-heritage-denim-jeans-cotton-black",
-   "price": 120.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 140.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 120.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16007125696892",
@@ -129,9 +163,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/W7A1203-3.jpg?v=1783433441",
    "productUrl": "https://percivalclo.com/products/vintage-wash-western-shirt-denim-stone",
-   "price": 130.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 152.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 130.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16007125500284",
@@ -142,9 +178,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Powell_Shirt__W7A0241-2_c14cd5e0-827f-4b30-a86d-b479b8cf30f9.jpg?v=1783349869",
    "productUrl": "https://percivalclo.com/products/vintage-wash-western-shirt-denim-mid-blue",
-   "price": 130.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 152.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 130.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16007125270908",
@@ -155,9 +193,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Straight_Leg_Jeans_Stone_Wash_PERCIVAL_MENSWEAR.jpg?v=1783335426",
    "productUrl": "https://percivalclo.com/products/straight-leg-denim-jeans-cotton-stone-wash",
-   "price": 120.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 140.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 120.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16006884196732",
@@ -168,9 +208,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Script_Emb_Tshirt_PERCIVAL_MENSWEAR1.jpg?v=1783335209",
    "productUrl": "https://percivalclo.com/products/script-embroidered-t-shirt-organic-cotton-light-blue",
-   "price": 55.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 64.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 55.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16006883639676",
@@ -181,9 +223,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Cowboy_Americana_Tshirt_PERCIVAL_MENSWEAR5.jpg?v=1783334630",
    "productUrl": "https://percivalclo.com/products/cowboy-boot-t-shirt-organic-cotton-white",
-   "price": 60.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 60.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-16006883148156",
@@ -194,9 +238,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Laurent_Long_Sleeve_Cream_PERCIVAL_MENSWEAR7.jpg?v=1783334705",
    "productUrl": "https://percivalclo.com/products/laurent-long-sleeve-polo-cotton-cream",
-   "price": 90.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 105.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 90.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15983989326204",
@@ -207,9 +253,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_5ca8f939-6f49-4e5d-b00a-d14b99607150.jpg?v=1783334413",
    "productUrl": "https://percivalclo.com/products/hinsley-boxy-short-sleeve-shirt-cotton-cream-check",
-   "price": 100.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 117.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 100.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15983989227900",
@@ -220,9 +268,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/ShortSleeveHinsley_Blue_PERCIVAL_MENSWEAR1.jpg?v=1783334339",
    "productUrl": "https://percivalclo.com/products/hinsley-boxy-short-sleeve-shirt-cotton-blue-check",
-   "price": 100.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 117.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 100.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15979502371196",
@@ -233,9 +283,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Pleated_Denim_Jeans_MidWashBlue_PERCIVAL_MENSWEAR.jpg?v=1783334881",
    "productUrl": "https://percivalclo.com/products/pleated-denim-jeans-cotton-mid-wash-blue",
-   "price": 110.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 128.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 110.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15374521205116",
@@ -246,9 +298,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/EditorPoloShirt_PERCIVAL_MENSWEAR12.jpg?v=1783350881",
    "productUrl": "https://percivalclo.com/products/editor-striped-rugby-polo-cotton-burgundy",
-   "price": 120.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 140.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 120.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15243663343996",
@@ -259,9 +313,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR_1_bb021b5a-c847-4bcf-bdb4-df7cc370cf62.jpg?v=1768000111",
    "productUrl": "https://percivalclo.com/products/cropped-regular-fit-t-shirt-organic-cotton-white",
-   "price": 35.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 41.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 35.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15979280105852",
@@ -272,9 +328,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/SunCubanShirtCream_PERCIVAL_MENSWEAR.jpg?v=1781785696",
    "productUrl": "https://percivalclo.com/products/sun-cuban-shirt-cotton-cream-orange",
-   "price": 98.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 114.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 98.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15979279647100",
@@ -285,22 +343,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR1_6cf8f01f-36e4-4825-907b-8895fed77e60.jpg?v=1781785482",
    "productUrl": "https://percivalclo.com/products/lunar-panel-cuban-shirt-viscose-cream",
-   "price": 98.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "percivalclo-15979279090044",
-   "brand": "Percival",
-   "name": "Lunar Panel Cuban Shirt | Viscose | Black",
-   "category": "shirt",
-   "color": "black",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR1_8ae16873-b7ba-4935-8304-5552c8ce72dd.jpg?v=1781785365",
-   "productUrl": "https://percivalclo.com/products/lunar-panel-cuban-shirt-viscose-black",
-   "price": 98.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 114.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 98.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15979278631292",
@@ -311,9 +358,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_2d6f16a3-1a89-43a0-a035-40722923f02e.jpg?v=1781785271",
    "productUrl": "https://percivalclo.com/products/solis-heaton-cuban-shirt-linen-blend-cream",
-   "price": 98.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 114.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 98.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15979278008700",
@@ -324,9 +373,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/SolisHeatonCubanShirtBlack_PERCIVAL_MENSWEAR6.jpg?v=1781785044",
    "productUrl": "https://percivalclo.com/products/solis-heaton-cuban-shirt-linen-blend-black",
-   "price": 98.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 114.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 98.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15983989719420",
@@ -337,9 +388,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/HinsleyShirt_Brown.jpg?v=1780666762",
    "productUrl": "https://percivalclo.com/products/hinsley-checked-boxy-shirt-cotton-brown",
-   "price": 140.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 163.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 140.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926500131196",
@@ -350,9 +403,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_1f71c7b7-f7be-46a6-8284-f480e6294e9b.jpg?v=1779960388",
    "productUrl": "https://percivalclo.com/products/palmer-embroidered-t-shirt-white",
-   "price": 65.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 76.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 65.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926500065660",
@@ -363,9 +418,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_ce5b06cf-77a6-4b1c-80d4-d07fdf756d20.jpg?v=1779960426",
    "productUrl": "https://percivalclo.com/products/clarke-embroidered-t-shirt-cream",
-   "price": 65.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 76.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 65.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926500000124",
@@ -376,9 +433,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_5488e3cb-bb6f-4f81-a2b8-ec951e14af41.jpg?v=1779960468",
    "productUrl": "https://percivalclo.com/products/clarke-embroidered-t-shirt-navy",
-   "price": 65.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 76.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 65.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926499967356",
@@ -389,9 +448,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_a6a280fb-2f1e-40c4-854b-19e3b05aae79.jpg?v=1779960521",
    "productUrl": "https://percivalclo.com/products/davies-embroidered-t-shirt-forest",
-   "price": 60.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 60.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926499934588",
@@ -402,9 +463,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_e40cf625-7964-4dac-8505-10e904df3d90.jpg?v=1779960632",
    "productUrl": "https://percivalclo.com/products/robinson-embroidered-t-shirt-white",
-   "price": 60.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 60.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926499737980",
@@ -415,9 +478,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Ringer_Tshirt_W7A7877.jpg?v=1780407208",
    "productUrl": "https://percivalclo.com/products/ringer-slim-fit-t-shirt-organic-cotton-white-with-red",
-   "price": 50.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 58.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 50.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926499705212",
@@ -428,9 +493,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR3_142c8dd7-1e4f-40ef-b3b9-31380bc6b98c.jpg?v=1779960769",
    "productUrl": "https://percivalclo.com/products/walker-regular-t-shirt-organic-cotton-white",
-   "price": 60.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 60.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926499541372",
@@ -441,9 +508,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR5_b2b2af21-8838-442f-8d93-fd9a6449a814.jpg?v=1779960895",
    "productUrl": "https://percivalclo.com/products/cuban-boxy-shirt-cotton-black",
-   "price": 90.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 105.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 90.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926499443068",
@@ -454,9 +523,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR6_794560f3-2195-478a-9d1f-cfa7b69d0048.jpg?v=1779960971",
    "productUrl": "https://percivalclo.com/products/lorenzo-pearce-shirt-cotton-cream",
-   "price": 140.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 163.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 140.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926499344764",
@@ -467,9 +538,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_7b999168-50e7-4d01-a9cd-f92922faa60c.jpg?v=1779961072",
    "productUrl": "https://percivalclo.com/products/jesse-cropped-shirt-cotton-blue",
-   "price": 140.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 163.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 140.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15910098370940",
@@ -480,9 +553,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR6_faa7d7f2-0fb7-4c91-8e22-76dbef88959f.jpg?v=1779961170",
    "productUrl": "https://percivalclo.com/products/siena-knitted-t-shirt-navy",
-   "price": 100.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 117.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 100.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15910094995836",
@@ -493,9 +568,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR_c3590233-9275-422d-9c33-0d764aaa8129.jpg?v=1779961202",
    "productUrl": "https://percivalclo.com/products/blake-double-pleated-shorts-cotton-black",
-   "price": 80.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 93.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 80.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926494888316",
@@ -506,9 +583,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR4_82961497-42d6-4a0a-867e-c75809982969.jpg?v=1777547743",
    "productUrl": "https://percivalclo.com/products/dexter-oversized-t-shirt-organic-cotton-white",
-   "price": 65.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 76.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 65.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926495969660",
@@ -519,9 +598,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR4_fc03007d-4c3f-464b-b2f9-84334e421283.jpg?v=1777548720",
    "productUrl": "https://percivalclo.com/products/gordon-oversized-t-shirt-organic-cotton-white",
-   "price": 60.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 60.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15962470121852",
@@ -532,9 +613,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR1_d2b39d7f-630e-4c3e-ba2a-f0a48c34e99b.jpg?v=1778144938",
    "productUrl": "https://percivalclo.com/products/pleated-leg-trousers-lyocell-black",
-   "price": 140.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 163.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 140.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926496264572",
@@ -545,9 +628,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR10_8e9a479a-ac3f-41eb-a7ab-43d0918cabce.jpg?v=1777547298",
    "productUrl": "https://percivalclo.com/products/dali-relaxed-poplin-shirt-cotton-navy",
-   "price": 120.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 140.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 120.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926496199036",
@@ -558,9 +643,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR4_704f9725-7e74-4fa5-bbc1-92cecc4fda72.jpg?v=1777547339",
    "productUrl": "https://percivalclo.com/products/dali-relaxed-poplin-shirt-cream",
-   "price": 120.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 140.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 120.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926496166268",
@@ -571,9 +658,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_1d33ed14-87f9-4bd9-a3d0-78b29c165d58.jpg?v=1777547404",
    "productUrl": "https://percivalclo.com/products/austin-slub-slim-fit-t-shirt-organic-cotton-white",
-   "price": 50.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 58.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 50.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926496067964",
@@ -584,9 +673,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR1_df29e124-796b-4eac-95fa-89664676e194.jpg?v=1777547525",
    "productUrl": "https://percivalclo.com/products/anthony-ribbed-polo-cotton-black",
-   "price": 80.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 93.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 80.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926495838588",
@@ -597,9 +688,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/W7A9297_2453_3373.jpg?v=1778584978",
    "productUrl": "https://percivalclo.com/products/lucia-embroidered-shirt-cotton-cream-stripe",
-   "price": 110.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 128.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 110.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926495707516",
@@ -610,22 +703,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_24a8933e-dcc5-40a1-b80a-bb92ced72754.jpg?v=1777547913",
    "productUrl": "https://percivalclo.com/products/striped-oxford-shirt-cotton-blue-stripe",
-   "price": 130.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "percivalclo-15926495478140",
-   "brand": "Percival",
-   "name": "Ernie Waffle Long Sleeve T Shirt | Organic Cotton | Cream Stripe",
-   "category": "tshirt",
-   "color": "beige",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR3_4dedd628-7fba-4222-8658-6f64ea6fce09.jpg?v=1777548034",
-   "productUrl": "https://percivalclo.com/products/ernie-waffle-long-sleeve-t-shirt-organic-cotton-cream-stripe",
-   "price": 70.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 152.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 130.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926495281532",
@@ -636,9 +718,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR1_a2ae8d9f-349c-4280-9d9d-a6a013e0fab8.jpg?v=1777548354",
    "productUrl": "https://percivalclo.com/products/moore-polo-cotton-cream-stripe",
-   "price": 80.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 93.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 80.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926494822780",
@@ -649,9 +733,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR3_912e400c-c334-4bc0-b25d-964ade6ae67e.jpg?v=1777548811",
    "productUrl": "https://percivalclo.com/products/alistair-oversized-t-shirt-organic-cotton-white",
-   "price": 65.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 76.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 65.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926494691708",
@@ -662,9 +748,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_52e1fa61-1eaf-4341-bc09-706c4fe1e05e.jpg?v=1777548901",
    "productUrl": "https://percivalclo.com/products/motel-percival-t-shirt-organic-cotton-white-and-red",
-   "price": 39.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 46.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 39.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15910099747196",
@@ -675,9 +763,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR3_e0b8e4f2-08fe-452a-8dac-fba84162666f.jpg?v=1777554439",
    "productUrl": "https://percivalclo.com/products/blake-double-pleated-shorts-cotton-navy",
-   "price": 80.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 93.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 80.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15910095683964",
@@ -688,9 +778,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_07c5da6c-37a0-4ce7-93b9-17514f1f7469.jpg?v=1777554693",
    "productUrl": "https://percivalclo.com/products/blake-double-pleated-trousers-cotton-navy",
-   "price": 100.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 117.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 100.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15910089490812",
@@ -701,9 +793,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Claude_knitted_shirt_W7A7499.jpg?v=1778514528",
    "productUrl": "https://percivalclo.com/products/claude-knitted-polo-cotton-navy",
-   "price": 110.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 128.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 110.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15918359413116",
@@ -714,9 +808,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_0f2c0530-09de-4751-8702-158783f04ecf.jpg?v=1775747250",
    "productUrl": "https://percivalclo.com/products/wax-zip-jacket-cotton-navy",
-   "price": 230.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 268.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 230.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15910096634236",
@@ -727,35 +823,41 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR1_5f7923e4-5d69-4fe0-802d-649abe3d2a75.jpg?v=1776704861",
    "productUrl": "https://percivalclo.com/products/hinsley-checked-boxy-shirt-cotton-blue",
-   "price": 140.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 163.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 140.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926224814460",
    "brand": "Percival",
-   "name": "Leon Slim Ribbed T Shirt | Cotton | Brown",
+   "name": "Leon Slim Fitted T Shirt | Cotton | Brown",
    "category": "tshirt",
    "color": "brown",
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR5_06750615-cafd-4798-bc71-1bd3394a52fb.jpg?v=1778145017",
    "productUrl": "https://percivalclo.com/products/leon-slim-ribbed-t-shirt-cotton-brown",
-   "price": 60.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 60.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15926224716156",
    "brand": "Percival",
-   "name": "Leon Slim Ribbed T Shirt | Cotton | Cream",
+   "name": "Leon Slim Fitted T Shirt | Cotton | Cream",
    "category": "tshirt",
    "color": "beige",
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR7_e038e9d2-ac8a-4a48-9223-9b3ebca9d183.jpg?v=1775640224",
    "productUrl": "https://percivalclo.com/products/leon-slim-ribbed-t-shirt-cotton-cream",
-   "price": 60.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 60.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15918359773564",
@@ -766,9 +868,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR14_9a3e4586-3039-41f5-9c6d-131638aa00fa.jpg?v=1779189276",
    "productUrl": "https://percivalclo.com/products/chronicle-straight-leg-trackpants-cotton-jersey-grey",
-   "price": 100.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 117.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 100.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "percivalclo-15918359609724",
@@ -779,9 +883,416 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR4_477f6bc5-b8a6-4b1b-a4bc-ef467ddf249d.jpg?v=1775646618",
    "productUrl": "https://percivalclo.com/products/arnold-oversized-t-shirt-organic-cotton-black",
+   "price": 49.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 42.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "percivalclo-15910099255676",
+   "brand": "Percival",
+   "name": "Lungo Carpenter Trousers | Cotton | Sage",
+   "category": "trousers",
+   "color": "green",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR4_b0d87f2d-4e54-4216-ad42-33329c61e042.jpg?v=1775646750",
+   "productUrl": "https://percivalclo.com/products/lungo-herringbone-straight-trousers-cotton-sage",
+   "price": 152.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 130.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15767968383358",
+   "brand": "Motel Rocks",
+   "name": "Bunga Flower Cut Out Top in Light Pink with Bitter Chocolate Binding",
+   "category": "tshirt",
+   "color": "brown",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/BUNGA-FL-CUT-OUT-TOP-LG-PNK-BTR-CHC-BIN-10699.jpg?v=1776405556",
+   "productUrl": "https://www.motelrocks.com/products/bunga-fl-cut-out-top-lg-pnk-btr-chc-bin",
+   "price": 23.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 20.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15743684182398",
+   "brand": "Motel Rocks",
+   "name": "Sutin Tee in Khaki with Buttermilk Binding",
+   "category": "tshirt",
+   "color": "beige",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/SUTIN-TEE-KHAKI-BUTTERMILK-BIND-SHELL-22373.jpg?v=1778225266",
+   "productUrl": "https://www.motelrocks.com/products/sutin-tee-khaki-buttermilk-bind-shell",
    "price": 42.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 36.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15675468906878",
+   "brand": "Motel Rocks",
+   "name": "Kota Chiffon Blouse in Burgundy",
+   "category": "blouse",
+   "color": "red",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/KOTA-BLOUSE-TOP-CHIFFON-BURGUNDY-126-25727.jpg?v=1765954831",
+   "productUrl": "https://www.motelrocks.com/products/kota-blouse-top-chiffon-burgundy-126",
+   "price": 46.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 39.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15671127212414",
+   "brand": "Motel Rocks",
+   "name": "Danama One Shoulder Top in Jersey Black",
+   "category": "tshirt",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DANAMA-ONE-SHLDR-TOP-R-JRY-BLACK-3790.jpg?v=1767160528",
+   "productUrl": "https://www.motelrocks.com/products/danama-one-shldr-top-r-jry-black",
+   "price": 41.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 35.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15639169139070",
+   "brand": "Motel Rocks",
+   "name": "Yeslin V-Neck Button Up Top in Lace White",
+   "category": "shirt",
+   "color": "white",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/YESLIN-TOP-FLOWER-LACE-WHITE-_2675-copy.jpg?v=1767159834",
+   "productUrl": "https://www.motelrocks.com/products/yeslin-v-nck-bttn-up-top-lace-white-1",
+   "price": 46.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 39.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15575162814846",
+   "brand": "Motel Rocks",
+   "name": "Abetzi Midi Skirt in Chiffon Mix Brown Stripe",
+   "category": "skirt",
+   "color": "brown",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ABETZI-SKIRT-CHIFFON-MIX-BROWN-STRIPE-14653_c44520e4-2c30-4be4-9bbf-5281efaea01e.jpg?v=1761716124",
+   "productUrl": "https://www.motelrocks.com/products/abetzi-skirt-chiffon-mix-brown-stripe",
+   "price": 46.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 39.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15509335835006",
+   "brand": "Motel Rocks",
+   "name": "Emera Midi Skirt with Studs in Bitter Chocolate",
+   "category": "skirt",
+   "color": "brown",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/SCANIO-LS-COWL-TOP-EMERA-MIDI-SKIRT-W-STUDS-BITTER-CHOC-6407_ca291ebd-6010-496e-9dc8-ea770f2087e0.jpg?v=1758266542",
+   "productUrl": "https://www.motelrocks.com/products/emera-midi-skirt-w-studs-bitter-choc",
+   "price": 49.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 42.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15499826921854",
+   "brand": "Motel Rocks",
+   "name": "Losa Cowl Neck Top in Pretty Petal Flock Olive",
+   "category": "shirt",
+   "color": "green",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/LOSA-CWL-CAMI-TOP-PRTY-PTL-FL-OLIVE-ASHA-SHORT-PINSTRIPE-CHARCOAL-0352-2025-09-MOTEL-V2.jpg?v=1759997857",
+   "productUrl": "https://www.motelrocks.com/products/losa-cwl-cami-top-prty-ptl-fl-olive-272",
+   "price": 46.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 39.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15402776953214",
+   "brand": "Motel Rocks",
+   "name": "Solani Top in Brown with Big Cream Polka Print",
+   "category": "blouse",
+   "color": "beige",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/SOLANI-TOP-BIG-CREAM-POLKA-BROWN-7052.jpg?v=1759307738",
+   "productUrl": "https://www.motelrocks.com/products/solani-top-big-cream-polka-brown",
+   "price": 20.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 17.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15358649172350",
+   "brand": "Motel Rocks",
+   "name": "Emesy Long Sleeve Top in Grey Marl",
+   "category": "shirt",
+   "color": "gray",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/EMESY-LONG-SLEEVE-TOP-GREY-MARL-14420.jpg?v=1754637341",
+   "productUrl": "https://www.motelrocks.com/products/emesy-long-sleeve-top-grey-marl",
+   "price": 21.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 18.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15358645600638",
+   "brand": "Motel Rocks",
+   "name": "Ayana Mini Dress in Adrenaline Red",
+   "category": "dress",
+   "color": "red",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/AYANA-MINI-DRESS-ADRENALINE-RED-0587.jpg?v=1755566061",
+   "productUrl": "https://www.motelrocks.com/products/ayana-mini-dress-adrenaline-red",
+   "price": 29.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 25.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15332940710270",
+   "brand": "Motel Rocks",
+   "name": "Cosimo Halterneck Top in Bold Floral Blue",
+   "category": "shirt",
+   "color": "blue",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/COSIMO-HALTER-TOP-BOLD-FLORAL-BLUE-0093.jpg?v=1769532658",
+   "productUrl": "https://www.motelrocks.com/products/cosimo-halter-top-bold-floral-blue",
+   "price": 19.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 16.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15013291000190",
+   "brand": "Motel Rocks",
+   "name": "Havisla Tie Front Midi Dress in Sage Green",
+   "category": "dress",
+   "color": "green",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/HAVISLA-TIE-FRONT-MIDI-DRESS-SAGE-GREEN-7181.jpg?v=1750408815",
+   "productUrl": "https://www.motelrocks.com/products/havisla-tie-front-midi-dress-sage-green",
+   "price": 27.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 23.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-14979229450622",
+   "brand": "Motel Rocks",
+   "name": "Cosimo Halterneck Top in Polka Bitter Chocolate",
+   "category": "shirt",
+   "color": "brown",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/COSIMO-HALTER-TOP-PLKA-BTR-CHOCOLATE-28-0631-1.jpg?v=1747211372",
+   "productUrl": "https://www.motelrocks.com/products/cosimo-halter-top-plka-btr-chocolate-28",
+   "price": 19.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 16.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-14920819081598",
+   "brand": "Motel Rocks",
+   "name": "Sastra Midi Dress in Retro Paisley Pink",
+   "category": "dress",
+   "color": "pink",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/SASTRA-DRESS-RETRO-PAISLEY-PINK-17290.jpg?v=1746070889",
+   "productUrl": "https://www.motelrocks.com/products/sastra-dress-retro-paisley-pink",
+   "price": 37.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 32.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-14920817508734",
+   "brand": "Motel Rocks",
+   "name": "Kenja Bardot Mini Dress in Retro Paisley Pink",
+   "category": "dress",
+   "color": "pink",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/KENJA-DRESS-RETRO-PAISLEY-PINK17525.jpg?v=1746067280",
+   "productUrl": "https://www.motelrocks.com/products/kenja-dress-retro-paisley-pink",
+   "price": 21.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 18.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-14896363864446",
+   "brand": "Motel Rocks",
+   "name": "Cosio Halterneck Top in Mix Sequin Black",
+   "category": "shirt",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/COSIO-HALTER-TOP-MIX-SEQUIN-BLACK-4-copy.jpg?v=1744961373",
+   "productUrl": "https://www.motelrocks.com/products/cosio-halter-top-mix-sequin-black",
+   "price": 46.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 39.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-14818912502142",
+   "brand": "Motel Rocks",
+   "name": "Lindka Plunge Assymetric Top in Slinky Black",
+   "category": "shirt",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/LINDKA-PLUNGE-ASYM-TOP-HEM-SLINKY-BLACK_6551-copy.jpg?v=1737697928",
+   "productUrl": "https://www.motelrocks.com/products/lindka-plunge-asym-top-hem-slinky-black",
+   "price": 28.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 24.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-8608745881774",
+   "brand": "Motel Rocks",
+   "name": "Darsih Maxi Dress in Lace Midnight Bloom",
+   "category": "dress",
+   "color": "navy",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DARSIH-DRESS-MIDNIGHT-BLOOM-22723.jpg?v=1738568184",
+   "productUrl": "https://www.motelrocks.com/products/darsih-maxi-dress-lace-midnight-bloom",
+   "price": 41.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 35.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-8578536276142",
+   "brand": "Motel Rocks",
+   "name": "Delita Mini Skirt in Cupro Burgundy",
+   "category": "skirt",
+   "color": "red",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DELITA-MINI-SKIRT-CUPRO-BURGUNDY14007.jpg?v=1733386318",
+   "productUrl": "https://www.motelrocks.com/products/delita-mini-skirt-cupro-burgundy-160",
+   "price": 22.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 19.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-8545268596910",
+   "brand": "Motel Rocks",
+   "name": "Zeinari Mini Dress in Diagonal Check Navy",
+   "category": "dress",
+   "color": "navy",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ZEINARI-MINI-DRESS-DIAGONAL-CHECK-NAVY_0035.jpg?v=1731304802",
+   "productUrl": "https://www.motelrocks.com/products/zeinari-mini-dress-diagonal-check-navy",
+   "price": 27.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 23.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-8506667565230",
+   "brand": "Motel Rocks",
+   "name": "Nova Top in Heart Flock Navy and Yellow",
+   "category": "shirt",
+   "color": "navy",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/NOVA-TOP-HEART-FLOCK-NAVY-YELLOW2687.jpg?v=1725868132",
+   "productUrl": "https://www.motelrocks.com/products/nova-top-heart-flock-navy-yellow",
+   "price": 15.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 13.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-8445113041070",
+   "brand": "Motel Rocks",
+   "name": "Nidya A-line Mini Skirt in Textured Mesh Black",
+   "category": "skirt",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/NIDYA-ALINE-MINI-SKIRT-TEXTURED-MESH-BLACK.jpg?v=1727664315",
+   "productUrl": "https://www.motelrocks.com/products/nidya-aline-mn-skirt-txtured-mesh-black",
+   "price": 14.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 12.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-8253959405742",
+   "brand": "Motel Rocks",
+   "name": "Jepuni Cami Top in Adrenaline Red",
+   "category": "blouse",
+   "color": "red",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/JEPUNI-CAMI-TOP-ADRENALINE-RED-20.jpg?v=1718935040",
+   "productUrl": "https://www.motelrocks.com/products/jepuni-cami-top-adrenaline-red",
+   "price": 23.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 20.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-8253947248814",
+   "brand": "Motel Rocks",
+   "name": "Dacita Mini Skirt in Crinkle Ivory",
+   "category": "skirt",
+   "color": "beige",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DACITA-SKIRT-CRINKLE-IVORY03830.jpg?v=1753422149",
+   "productUrl": "https://www.motelrocks.com/products/dacita-mini-skirt-crinkle-ivory",
+   "price": 19.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 16.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-7968920895662",
+   "brand": "Motel Rocks",
+   "name": "Fayola Printed Maxi Dress in Watercolour Navy",
+   "category": "dress",
+   "color": "navy",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/FAYOLA-DRESS-MESH-WATERCOLOUR-NAVY-_6.jpg?v=1693209909",
+   "productUrl": "https://www.motelrocks.com/products/fayola-dress-mesh-watercolour-navy",
+   "price": 33.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 28.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15996961751422",
@@ -792,9 +1303,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DANAMA-ONE-SHOULDER-TOP-AQUA-JENNY-MD-SKIRT-PRTD-MSH-WILD-ANML-BROWN-65180.jpg?v=1784775836",
    "productUrl": "https://www.motelrocks.com/products/jenny-md-skirt-prtd-msh-wild-anml-brown",
-   "price": 40.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 47.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 40.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15958030647678",
@@ -805,9 +1318,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ORVIO-HALTER-TOP-EMB-ST-TLG-DP-PRPLE--SLOUCHY-FLARE-JEANS-WASHED-BLACK-GREY-65448.jpg?v=1784707556",
    "productUrl": "https://www.motelrocks.com/products/orvio-halter-top-emb-st-tlg-dp-prple-35",
-   "price": 35.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 41.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 35.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15958029074814",
@@ -818,9 +1333,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/CUTIE-HALTER-MINI-TOP-HOT-PINK-SLOUCHY-FLARE-JEANS-WASHED-BLACK-GREY-64925.jpg?v=1784706040",
    "productUrl": "https://www.motelrocks.com/products/cutie-halter-mini-top-hot-pink",
-   "price": 38.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 44.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 38.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15947551605118",
@@ -831,9 +1348,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/OLINDA-HALTER-TOP-CUPRO-CREAM-62880.jpg?v=1784707851",
    "productUrl": "https://www.motelrocks.com/products/olinda-halter-top-cupro-cream-73",
-   "price": 36.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 42.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 36.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15935804408190",
@@ -844,9 +1363,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/YOANA-TOP-SHEER-KNIT-LILY-GREEN-LR-ROOMY-JEANS-BRIGHT-BLUE-USED-62571.jpg?v=1784706008",
    "productUrl": "https://www.motelrocks.com/products/yoana-top-sheer-knit-lily-green-dj008",
-   "price": 35.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 41.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 35.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15935803228542",
@@ -857,9 +1378,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/NOVEE-CLRD-O-RING-TOP-COFFEE-QRTZ-62849.jpg?v=1784707789",
    "productUrl": "https://www.motelrocks.com/products/novee-clrd-o-ring-top-coffee-qrtz-br08",
-   "price": 32.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 37.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 32.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15935802868094",
@@ -870,9 +1393,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/MIYALA-TOP-W-BUCKLE-WHITE-62626.jpg?v=1784707562",
    "productUrl": "https://www.motelrocks.com/products/miyala-top-w-buckle-white-wh01",
-   "price": 32.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 37.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 32.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15935802016126",
@@ -883,9 +1408,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/IONE-QRTR-SLV-TOP-OFF-WHITE-LR-RELAXED-CARGO-JEANS-TRUE-BLUE-62311.jpg?v=1784706636",
    "productUrl": "https://www.motelrocks.com/products/ione-qrtr-slv-top-off-white-wh01",
-   "price": 35.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 41.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 35.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15934597038462",
@@ -894,11 +1421,13 @@
    "category": "jeans",
    "color": "black",
    "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/EMBERLY-PLUNGE-TOP-WHITE-LR-TWSTD-SEAM-JEANS-WASHED-BLACK-GREY-62332.jpg?v=1784706254",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/EMBERLY-TOP-WHITE-LR-TWISTED-SEAM-JEANS-WASHED-BLACK-GREY-66853.jpg?v=1785391491",
    "productUrl": "https://www.motelrocks.com/products/lr-twstd-seam-jeans-washd-black-grey",
-   "price": 65.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 76.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 65.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15934596743550",
@@ -909,9 +1438,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/NEMUE-PLG-RACERBACK-TOP-BLACK-LR-RELAXED-CARGO-JEANS-OFF-WHITE-62206.jpg?v=1784707389",
    "productUrl": "https://www.motelrocks.com/products/lr-relaxed-cargo-jeans-off-white-1",
-   "price": 66.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 77.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 66.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15934596219262",
@@ -922,9 +1453,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/LOW-RISE-PARALLEL-JEANS-BURGUNDY-W24-43299.jpg?v=1784706834",
    "productUrl": "https://www.motelrocks.com/products/low-rise-parallel-jeans-burgundy",
-   "price": 65.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 76.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 65.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15841345044862",
@@ -935,9 +1468,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/SLCHY-FLRE-JNS-L-HAND-TWIL-FRN-GRN-42803.jpg?v=1784706571",
    "productUrl": "https://www.motelrocks.com/products/slchy-flre-jns-l-hand-twil-frn-grn",
-   "price": 60.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 60.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15841229996414",
@@ -948,9 +1483,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/NEMUE-PLG-RACERBACK-TOP-GREY-MARL-LOW-RISE-RELAXED-CARGO-INDIGO-W24-04346.jpg?v=1784707223",
    "productUrl": "https://www.motelrocks.com/products/low-rise-relaxed-cargo-indigo",
-   "price": 66.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 77.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 66.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-8506686734510",
@@ -961,9 +1498,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DARSIH-DRESS-HEART-FLOCK-NAVY-YELLOW-10.jpg?v=1725527651",
    "productUrl": "https://www.motelrocks.com/products/darsih-dress-heart-flock-navy-yellow",
-   "price": 26.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 30.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 26.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-8262796771502",
@@ -974,9 +1513,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ERNA-SHORT-DRAPE-MINI-SEQUIN-PINK2.jpg?v=1716537447",
    "productUrl": "https://www.motelrocks.com/products/erna-short-drape-mini-sequin-pink-12",
-   "price": 20.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 23.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 20.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-8203821187246",
@@ -987,9 +1528,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/RAFFITA-SKIRT-in-ECRU-5-copy.jpg?v=1745827786",
    "productUrl": "https://www.motelrocks.com/products/raffita-skirt-ecru",
-   "price": 19.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 22.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 19.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-7994956513454",
@@ -1000,9 +1543,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/MONI-VEST-TOP-MAROON-7908470.jpg?v=1691997152",
    "productUrl": "https://www.motelrocks.com/products/moni-vest-top-maroon-79",
-   "price": 16.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 19.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 16.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15531004526974",
@@ -1013,22 +1558,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/VENYA-MAXI-SKIRT-CUPRO-NAVY-0336.jpg?v=1757576253",
    "productUrl": "https://www.motelrocks.com/products/venya-maxi-skirt-cupro-navy-58",
-   "price": 31.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15514371391870",
-   "brand": "Motel Rocks",
-   "name": "Namra Cowl Neck Maxi Dress in Cupro Burgundy",
-   "category": "dress",
-   "color": "red",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/NAMRA-COWL-MAXI-DRESS-CUPRO-BURGUNDY-STUDDED-SHOULDER-BAG-BLACK-6564.jpg?v=1758871177",
-   "productUrl": "https://www.motelrocks.com/products/namra-cowl-maxi-dress-cupro-burgundy-84",
-   "price": 28.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 36.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 31.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15499848909182",
@@ -1039,9 +1573,26 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/RAWSON-DRESS-BLACK-LEAF-FLOWER-8695.jpg?v=1759308984",
    "productUrl": "https://www.motelrocks.com/products/rawson-mini-dress-flck-leaf-flwr-black",
-   "price": 49.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 57.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 49.0,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "motelrocks-15475565855102",
+   "brand": "Motel Rocks",
+   "name": "Edwina Off The Shoulder Mini Dress in Black",
+   "category": "dress",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/EDWINA-OFF-THE-SHOULDER-MINI-DRESS-BLACK8655-copy.jpg?v=1753756675",
+   "productUrl": "https://www.motelrocks.com/products/edwina-off-the-shouldr-mini-dress-black",
+   "price": 48.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 41.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15460751573374",
@@ -1052,9 +1603,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/MURPHY-SKIRT-POPLIN-BLACK_3544_9968c416-4afb-4762-93de-5815fd212987.jpg?v=1759740634",
    "productUrl": "https://www.motelrocks.com/products/murphy-knee-length-skirt-black",
-   "price": 42.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 49.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 42.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15403909611902",
@@ -1065,9 +1618,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/CATRIN-DRESS-DOODLE-FLOWER-FLOCK-BROWN1403_RB.jpg?v=1754625767",
    "productUrl": "https://www.motelrocks.com/products/catrin-dress-doodle-flower-flock-brown",
-   "price": 50.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 58.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 50.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-15402777837950",
@@ -1078,22 +1633,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/VADORA-FRL-HEM-MN-DRSS-BIG-CRM-PLKA-BRW-7035.jpg?v=1757035235",
    "productUrl": "https://www.motelrocks.com/products/vadora-frl-hem-mn-drss-big-crm-plka-brw",
-   "price": 26.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15332938482046",
-   "brand": "Motel Rocks",
-   "name": "Chihiro Puff Sleeve Baby Tee Top in Grey Marl",
-   "category": "tshirt",
-   "color": "gray",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/CHIHIRO-PUFF-SLV-BABY-TEE-TOP-GREY-MARL-5.jpg?v=1748586438",
-   "productUrl": "https://www.motelrocks.com/products/chihiro-puff-slv-baby-tee-top-grey-marl",
-   "price": 12.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 30.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 26.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-14972428943742",
@@ -1104,9 +1648,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ANILA-BUTTON-THRU-VEST-ELEGI-HOTPANT-STRETCH-DENIM-INDIGO-0989.jpg?v=1749699416",
    "productUrl": "https://www.motelrocks.com/products/elegi-hotpant-stretch-denim-indigo",
-   "price": 19.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 22.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 19.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-14970359677310",
@@ -1117,9 +1663,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/VALEA-MIDI-DRESS-ZINNIA-LACE-BLUE-8-1520.jpg?v=1749184437",
    "productUrl": "https://www.motelrocks.com/products/valea-midi-dress-zinnia-lace-blue-8",
-   "price": 30.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 35.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 30.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-14920819704190",
@@ -1130,22 +1678,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/SAVIRA-TOP-STRIPE-GREEN-CHIFFON5224.jpg?v=1746071176",
    "productUrl": "https://www.motelrocks.com/products/savira-top-chiffon-stripe-green-15",
-   "price": 22.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-14920815608190",
-   "brand": "Motel Rocks",
-   "name": "Anira Maxi Dress in Pink Chiffon Painted Stripe",
-   "category": "dress",
-   "color": "pink",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ANIRA-DRESS-CHIFFON-PAINTED-STRIPE-PINK-16363.jpg?v=1746063453",
-   "productUrl": "https://www.motelrocks.com/products/anira-dress-chiffon-painted-stripe-pink",
-   "price": 24.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 26.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 22.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-14882216149374",
@@ -1156,9 +1693,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DAYARA-MINI-DRESS-POPLIN-CHARCOAL-GREY10331.jpg?v=1740364096",
    "productUrl": "https://www.motelrocks.com/products/dayara-mini-dress-poplin-charcoal-grey",
-   "price": 42.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 49.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 42.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-14879454069118",
@@ -1169,9 +1708,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ZEYANA-UNLINED-MINI-DRESS-SEQUIN-GOLD-2_9ca1b1ab-731b-41b9-8c59-484e039ee9e9.jpg?v=1743585072",
    "productUrl": "https://www.motelrocks.com/products/zeyana-unlined-mini-dress-sequin-gold",
-   "price": 40.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 47.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 40.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-14879453249918",
@@ -1182,9 +1723,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/RIMO-TOP-SEQUIN-GOLD9976_e4dc9e79-82c2-4920-a000-aad0276fb109.jpg?v=1740994041",
    "productUrl": "https://www.motelrocks.com/products/rimo-top-sequin-gold",
-   "price": 14.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 16.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 14.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-14879452201342",
@@ -1195,9 +1738,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/KAYRIA-TIE-TOP-BURGUNDY-FLORAL-EMBRO-79763_OPA_014_05.jpg?v=1740985635",
    "productUrl": "https://www.motelrocks.com/products/kayria-tie-top-burgundy-floral-embro",
-   "price": 21.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 25.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 21.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-14875890483582",
@@ -1208,9 +1753,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/FUKAMA-TOP-SHRINE-SHORT-STRETCH-BRODERIE-BROWN0011.jpg?v=1743063564",
    "productUrl": "https://www.motelrocks.com/products/fukama-top-stretch-broderie-brown",
-   "price": 24.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 28.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 24.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-8600291737774",
@@ -1221,9 +1768,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DASA-DRESS-BIG-POLKA-FLOCK-BLACK29779.jpg?v=1734421892",
    "productUrl": "https://www.motelrocks.com/products/dasa-dress-big-polka-flock-black",
-   "price": 45.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 53.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 45.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-8560884580526",
@@ -1234,9 +1783,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ILIAS-CORSET-TOP-POPLIN-BURGUNDY_3785.jpg?v=1730450980",
    "productUrl": "https://www.motelrocks.com/products/ilias-corset-top-poplin-burgundy",
-   "price": 36.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 42.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 36.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "motelrocks-8555301372078",
@@ -1247,321 +1798,146 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/CAMIGO-MN-SKIRT-POLKA-CHIFFON-BLACK0144_648510de-dbb5-4980-a229-d4c2fad1dcb6.jpg?v=1729845181",
    "productUrl": "https://www.motelrocks.com/products/camigo-mn-skirt-polka-chiffon-black-11",
-   "price": 19.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 22.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 19.0,
+   "currencyOriginal": "GBP"
   },
   {
-   "id": "motelrocks-8474728399022",
-   "brand": "Motel Rocks",
-   "name": "Derika V Waist Maxi Skirt in Cream",
-   "category": "skirt",
-   "color": "beige",
+   "id": "marinelayer-8084577157194",
+   "brand": "Marine Layer",
+   "name": "Luxe 250 Classic Tee",
+   "category": "tshirt",
+   "color": "navy",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/S2_M_Luxe_250_Classic_Tee_Navy-Final-Web.jpg?v=1771374709",
+   "productUrl": "https://www.marinelayer.com/products/luxe-250-classic-tee-2",
+   "price": 56.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 64.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "marinelayer-7046055854154",
+   "brand": "Marine Layer",
+   "name": "Stretch Selvage Short Sleeve Shirt",
+   "category": "shorts",
+   "color": "blue",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/M_ECOMM_SHIRT-21531-Final_Web.webp?v=1785269970",
+   "productUrl": "https://www.marinelayer.com/products/ss-stretch-selvage-stripe-shirt-blue-mini-stripe",
+   "price": 103.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 118.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "marinelayer-8213632483402",
+   "brand": "Marine Layer",
+   "name": "7\" Saturday Hemp Chino Short",
+   "category": "trousers",
+   "color": "green",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Saturday_Hemp_Chino_Short_7inch_Olive_14836-Final-Web.jpg?v=1785259606",
+   "productUrl": "https://www.marinelayer.com/products/saturday-hemp-chino-short-11",
+   "price": 94.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 108.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "marinelayer-8213624619082",
+   "brand": "Marine Layer",
+   "name": "Carmen Smocked Dress",
+   "category": "dress",
+   "color": "blue",
    "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DERIKA-V-WAIST-MAXI-SKIRT-CREAM-4.jpg?v=1742867613",
-   "productUrl": "https://www.motelrocks.com/products/derika-v-waist-maxi-skirt-cream-1",
-   "price": 21.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_Carmen_Smocked_Dress_Blue_Geo_0202-Final-Web.jpg?v=1785259819",
+   "productUrl": "https://www.marinelayer.com/products/carmen-smocked-dress-4",
+   "price": 137.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 158.0,
+   "currencyOriginal": "USD"
   },
   {
-   "id": "motelrocks-15947551474046",
-   "brand": "Motel Rocks",
-   "name": "Julitte Mini Dress in Cupro Dark Brown",
+   "id": "marinelayer-8213624389706",
+   "brand": "Marine Layer",
+   "name": "Carmen Smocked Dress",
    "category": "dress",
    "color": "brown",
    "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/JULITTE-MINI-DRESS-CUPRO-DARK-BROWN-61859_01e25266-9cc8-4272-83c8-95288c9bbd73.jpg?v=1784277909",
-   "productUrl": "https://www.motelrocks.com/products/julitte-mini-dress-cupro-dark-brown-85",
-   "price": 52.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_Carmen_Smocked_Dress_Chocolate_Seashell_13209-Final-Web.jpg?v=1785259827",
+   "productUrl": "https://www.marinelayer.com/products/carmen-smocked-dress-3",
+   "price": 137.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 158.0,
+   "currencyOriginal": "USD"
   },
   {
-   "id": "motelrocks-15947551342974",
-   "brand": "Motel Rocks",
-   "name": "Brienne Top in Plisse Leopard Grey",
-   "category": "shirt",
-   "color": "gray",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/BRIENNE-TOP-PLISSE-LEOPARD-GREY-SLOUCHY-FLARE-JEANS-WASHED-BLACK-GREY-65401.jpg?v=1784277138",
-   "productUrl": "https://www.motelrocks.com/products/brienne-top-plisse-leopard-grey",
-   "price": 31.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15935803326846",
-   "brand": "Motel Rocks",
-   "name": "Onyx Mini Dress in Botanical Flower Maroon",
-   "category": "dress",
+   "id": "marinelayer-8213615083594",
+   "brand": "Marine Layer",
+   "name": "Dream Jersey Oversized Tee",
+   "category": "tshirt",
    "color": "black",
    "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ONYX-MINI-DRESS-BTANICAL-FLW-MAROON-65815.jpg?v=1784276478",
-   "productUrl": "https://www.motelrocks.com/products/onyx-mini-dress-btanical-flw-maroon-79",
-   "price": 40.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_Miracle_Jersey_Oversized_Tee_Black_9883-Final-Web_eec55859-9638-4f43-8005-82069465de61.jpg?v=1785262142",
+   "productUrl": "https://www.marinelayer.com/products/miracle-jersey-oversized-tee-1",
+   "price": 56.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 64.0,
+   "currencyOriginal": "USD"
   },
   {
-   "id": "motelrocks-15926554624382",
-   "brand": "Motel Rocks",
-   "name": "Ysmaine Mini Dress in Redwood",
-   "category": "dress",
-   "color": "red",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/YSMAINE-NECK-MINI-DRESS-REDWOOD-62014_7dd2b531-a7e1-4e41-8d5a-0100b811800f.jpg?v=1784276355",
-   "productUrl": "https://www.motelrocks.com/products/ysmaine-neck-mini-dress-redwood-re03",
-   "price": 40.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15926554067326",
-   "brand": "Motel Rocks",
-   "name": "Nemue Plunge Racerback Top in Grey Marl",
-   "category": "shirt",
-   "color": "gray",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/NEMUE-PLG-RACERBACK-TOP-GREY-MARL-LOPIKA-SS-BOLERO-KNIT-BLACK-LOW-RISE-PARALLEL-JEANS-STEEL-BLUE-65350.jpg?v=1784276852",
-   "productUrl": "https://www.motelrocks.com/products/nemue-plg-racerback-top-grey-marl-gy07",
-   "price": 26.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15926553969022",
-   "brand": "Motel Rocks",
-   "name": "Nemue Plunge Racerback Top in Black",
-   "category": "shirt",
+   "id": "marinelayer-8213614788682",
+   "brand": "Marine Layer",
+   "name": "Dream Jersey Shrunken Crew Tee",
+   "category": "tshirt",
    "color": "black",
    "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/NEMUE-PLG-RACERBACK-TOP-BLACK-DIOMIRA-TROUSER-W-TIE-TAILORING-GREY-65158.jpg?v=1784277008",
-   "productUrl": "https://www.motelrocks.com/products/nemue-plg-racerback-top-black-bk01",
-   "price": 26.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_Miracle_Jersey_Shrunken_Crew_Tee_Black_6923-Final-Web.jpg?v=1785262259",
+   "productUrl": "https://www.marinelayer.com/products/miracle-jersey-shrunken-crew-tee-1",
+   "price": 50.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 58.0,
+   "currencyOriginal": "USD"
   },
   {
-   "id": "motelrocks-15926553510270",
-   "brand": "Motel Rocks",
-   "name": "Kepangan Cutout Top in Jersey Black",
-   "category": "shirt",
+   "id": "marinelayer-8213614559306",
+   "brand": "Marine Layer",
+   "name": "Dream Jersey Crew Tee",
+   "category": "tshirt",
    "color": "black",
    "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/KEPANGAN-TOP-CUTOUT-R-JRY-BLACK-LOW-RISE-PARALLEL-JEANS-STEEL-BLUE-65259.jpg?v=1784277503",
-   "productUrl": "https://www.motelrocks.com/products/kepangan-top-cutout-r-jry-black-bk01",
-   "price": 35.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_Miracle_Jersey_Crew_Tee_Black_5360-Final-Web.jpg?v=1785262017",
+   "productUrl": "https://www.marinelayer.com/products/miracle-jersey-crew-tee-1",
+   "price": 50.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 58.0,
+   "currencyOriginal": "USD"
   },
   {
-   "id": "motelrocks-15926553444734",
-   "brand": "Motel Rocks",
-   "name": "Kepangan Cutout Top in Jersey Adrenaline Red",
-   "category": "shirt",
-   "color": "red",
+   "id": "marinelayer-8213616459850",
+   "brand": "Marine Layer",
+   "name": "Poppy Double Knit Crewneck",
+   "category": "hoodie",
+   "color": "blue",
    "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/KEPANGAN-TOP-CUTOUT-R-JRY-ADRN-RED-ANO-CAPRI-TROUSER-BLACK-64975_b621bfea-0f82-4247-8734-33d37a206d16.jpg?v=1784277712",
-   "productUrl": "https://www.motelrocks.com/products/kepangan-top-cutout-r-jry-adrn-red-re01",
-   "price": 35.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15926553248126",
-   "brand": "Motel Rocks",
-   "name": "Ione Quarter Sleeve Top in Apple Green",
-   "category": "shirt",
-   "color": "green",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/IONE-QRTR-SLV-TOP-APPLE-JANEI-HOT-PANTS-TAILORING-TRUFFLE-62132_2a78f5b3-d862-4359-a287-1ce9bb65d12e.jpg?v=1784277533",
-   "productUrl": "https://www.motelrocks.com/products/ione-qrtr-slv-top-apple-gr14",
-   "price": 35.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15926553182590",
-   "brand": "Motel Rocks",
-   "name": "Emberly Plunge Top in Apple Green",
-   "category": "shirt",
-   "color": "green",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/EMBERLY-PLUNGE-TOP-APPLE-LOW-RISE-ROOMY-BRIGHT-BLUE-USED-62173_c2fa3f10-c313-41b2-9c63-940a4b79c55b.jpg?v=1784277376",
-   "productUrl": "https://www.motelrocks.com/products/emberly-plunge-top-apple-gr14",
-   "price": 29.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15926552953214",
-   "brand": "Motel Rocks",
-   "name": "Alna Skort with Ruffle in Poplin White",
-   "category": "skirt",
-   "color": "white",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/ACHARA-TOP-DUSTY-BLUE-ALNA-SKORT-V-WAIST-POPLIN-WHITE-61950_4652c005-1538-489d-8c2f-7038120df3a4.jpg?v=1784276125",
-   "productUrl": "https://www.motelrocks.com/products/alna-skort-v-waist-poplin-white-wh01",
-   "price": 37.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15906919022974",
-   "brand": "Motel Rocks",
-   "name": "Saiwa Midi Skirt in Floral Lace Black",
-   "category": "skirt",
-   "color": "black",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/SAIWA-MIDI-SKIRT-FLORAL-LACE-BLACK-50616.jpg?v=1782375393",
-   "productUrl": "https://www.motelrocks.com/products/saiwa-midi-skirt-floral-lace-black",
-   "price": 42.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15905292288382",
-   "brand": "Motel Rocks",
-   "name": "Moselle Drop Waist Midi Dress in Lace Black",
-   "category": "dress",
-   "color": "black",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/MOSELLE-DROP-WAIST-MIDI-DRESS-BLACK-50490.jpg?v=1784009153",
-   "productUrl": "https://www.motelrocks.com/products/moselle-drop-waist-mini-dress-black",
-   "price": 52.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15360494403966",
-   "brand": "Motel Rocks",
-   "name": "Alfreda Maxi Skirt in Stencil Flower Pink",
-   "category": "skirt",
-   "color": "red",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/LOTUS-COWL-CAMI-TOP-ALFREDA-MAXI-SKIRT-STENCIL-FLOWER-PINK-1596_186851ee-f624-49af-9f31-8b7cb6ff1bab.jpg?v=1752547551",
-   "productUrl": "https://www.motelrocks.com/products/alfreda-maxi-skirt-stencil-flower-pink",
-   "price": 33.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15002617184638",
-   "brand": "Motel Rocks",
-   "name": "Varys Top in Orchid Lace Hot Pink",
-   "category": "shirt",
-   "color": "pink",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/VARYS-TOP-ORCHID-LACE-HOT-PINK12219.jpg?v=1749700862",
-   "productUrl": "https://www.motelrocks.com/products/varys-top-orchid-lace-hot-pink",
-   "price": 14.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-14879437848958",
-   "brand": "Motel Rocks",
-   "name": "Dolores Wrap Top in Rayon Jersey Ivory",
-   "category": "shirt",
-   "color": "beige",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/DOLORES-WRAP-TOP-R-JERSEY-IVORY-BOA-SLING-BAG-BLACK-W-BUCKLE-HAIRBAND-TEXTURED-CHIFFON-WHITE32193.jpg?v=1743665175",
-   "productUrl": "https://www.motelrocks.com/products/dolores-wrap-top-r-jersey-ivory",
-   "price": 16.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-14874323714430",
-   "brand": "Motel Rocks",
-   "name": "Ritala Short in Mini Gingham Wine",
-   "category": "shorts",
-   "color": "red",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/RITALA-SHORT-LYCRA--MINI-GINGHAM-WINE_8267-3-copy_6616b20a-af19-488a-a9c5-5342311fbad0.jpg?v=1742443949",
-   "productUrl": "https://www.motelrocks.com/products/ritala-shorts-mini-gingham-wine",
-   "price": 18.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15988456849790",
-   "brand": "Motel Rocks",
-   "name": "Shaelo Bandeau Top in Jersey Palm Tree Khaki",
-   "category": "shirt",
-   "color": "beige",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/SHAELO-TOP-KHAKI-PALM-TREE-17999.jpg?v=1783663226",
-   "productUrl": "https://www.motelrocks.com/products/shaelo-top-jersey-palm-tree-khaki-24",
-   "price": 11.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15957719417214",
-   "brand": "Motel Rocks",
-   "name": "Ballerie Halter Top in Cupro Black",
-   "category": "shirt",
-   "color": "black",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/BALLERIE-HALTER-TOP-CUPRO-BLACK-ANO-CAPRI-TROUSER-R-JRY-BLACK-61845.jpg?v=1783911307",
-   "productUrl": "https://www.motelrocks.com/products/ballerie-halter-top-cupro-black-48",
-   "price": 34.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15951162048894",
-   "brand": "Motel Rocks",
-   "name": "Axelle Hooded Top in Floral Lace Black",
-   "category": "shirt",
-   "color": "black",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/AXELLE-HOODED-TOP-LACE-BLACK-EUNIA-SHORT-BLACK-51258.jpg?v=1782366455",
-   "productUrl": "https://www.motelrocks.com/products/axelle-hooded-top-lace-black",
-   "price": 32.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15951161557374",
-   "brand": "Motel Rocks",
-   "name": "Maizy Halterneck Bodysuit in Black Floral Lace",
-   "category": "blouse",
-   "color": "black",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/MAIZY-HALTER-BODYSUIT-LACE-BLACK-LR-ROOMY-JEANS-BRIGHT-BLUE-USED-57817.jpg?v=1783586935",
-   "productUrl": "https://www.motelrocks.com/products/maizy-halter-bodysuit-lace-black",
-   "price": 35.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15947551834494",
-   "brand": "Motel Rocks",
-   "name": "Vernia Plunge Batwing Top in Cupro Burgundy",
-   "category": "shirt",
-   "color": "red",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/VERNIA-PLG-BTW-TOP-CUPRO-BURGUNDY-57943.jpg?v=1783584702",
-   "productUrl": "https://www.motelrocks.com/products/vernia-plg-btw-top-cupro-burgundy-84",
-   "price": 42.0,
-   "currency": "GBP",
-   "source": "scrape"
-  },
-  {
-   "id": "motelrocks-15934596579710",
-   "brand": "Motel Rocks",
-   "name": "Low Rise Parallel Jeans in Heritage Indigo",
-   "category": "jeans",
-   "color": "navy",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/1444/3082/files/LOW-RISE-PARALLEL-HERITAGE-INDIGO_0580-_1.jpg?v=1783652015",
-   "productUrl": "https://www.motelrocks.com/products/lr-parallel-jean-heritage-indigo-1",
-   "price": 70.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_Juno_Double_Knit_Longsleeve_Faded_Blue_Stripe_F2_Sierra_Utility_Pant_Dark_Olive_2360-Final-Web.jpg?v=1784844658",
+   "productUrl": "https://www.marinelayer.com/products/juno-double-knit-longsleeve",
+   "price": 82.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 94.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213633400906",
@@ -1572,9 +1948,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_5_Pocket_Flex_Terry_Pant_Slim_Straight_Faded_Black-Final-Final-Web-v2.jpg?v=1784666340",
    "productUrl": "https://www.marinelayer.com/products/5-pocket-flex-terry-pant-athletic-fit-6",
-   "price": 148.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 148.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213631729738",
@@ -1585,9 +1963,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_5_Pocket_Flex_Terry_Pant_Slim_Straight_Daisy_Brown-Final-Final-Web-v2_a1d21cf8-34d1-4cd0-b8df-c988f095334d.jpg?v=1784666311",
    "productUrl": "https://www.marinelayer.com/products/5-pocket-flex-terry-pant-athletic-fit-5",
-   "price": 148.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 148.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213629829194",
@@ -1598,9 +1978,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_5_Pocket_Flex_Terry_Pant_Slim_Straight_True_Navy-Final-Final-Web-v2_fb073575-f097-40d8-a3ee-5746fe85406d.jpg?v=1784666358",
    "productUrl": "https://www.marinelayer.com/products/5-pocket-flex-terry-pant-athletic-fit-4",
-   "price": 148.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 148.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213635399754",
@@ -1611,9 +1993,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Polo_Citadel_Heather-Final-Final-Web.jpg?v=1784569495",
    "productUrl": "https://www.marinelayer.com/products/everyday-sport-polo-3",
-   "price": 68.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 59.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 68.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213634711626",
@@ -1624,9 +2008,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_Miracle_Jersey_Shrunken_Crew_Tee_Navy_Stripe_15074-Final-Web.jpg?v=1784236972",
    "productUrl": "https://www.marinelayer.com/products/miracle-jersey-shrunken-crew-tee-5",
-   "price": 58.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 50.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 58.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213633957962",
@@ -1637,9 +2023,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_Miracle_Jersey_Oversized_Graphic_Tee_Dusk_Rose_11202-Final-Web.jpg?v=1784236649",
    "productUrl": "https://www.marinelayer.com/products/miracle-jersey-oversized-graphic-tee-1",
-   "price": 64.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 56.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 64.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213633925194",
@@ -1650,9 +2038,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Saturday_Twill_Chino_Slim_Straight_Tobacco-Final-Final-Web-v2.jpg?v=1784667747",
    "productUrl": "https://www.marinelayer.com/products/saturday-twill-chino-slim-straight-8",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213633892426",
@@ -1663,9 +2053,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Saturday_Twill_Chino_Slim_Straight_Tobacco-Final-Final-Web-v2_b80f5e93-1318-491d-beb0-b4545d080bfb.jpg?v=1784667749",
    "productUrl": "https://www.marinelayer.com/products/saturday-twill-chino-athletic-fit-8",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213633761354",
@@ -1676,9 +2068,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Hemp_Cotton_Tee_Vintage_Indigo-Final-Final-Web-v2.jpg?v=1784667636",
    "productUrl": "https://www.marinelayer.com/products/relaxed-hemp-cotton-tee-24",
-   "price": 58.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 50.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 58.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213633663050",
@@ -1689,9 +2083,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Liam_Sweater_Polo_Heather_Grey-Final-Final-Web-v2.jpg?v=1784666634",
    "productUrl": "https://www.marinelayer.com/products/liam-sweater-polo-31",
-   "price": 128.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 111.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 128.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213633531978",
@@ -1702,9 +2098,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Glenn_Wax_Canvas_Bomber_Olive-Final-Final-Web-v2.jpg?v=1784666613",
    "productUrl": "https://www.marinelayer.com/products/glenn-wax-canvas-bomber-1",
-   "price": 188.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 163.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 188.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213633433674",
@@ -1715,9 +2113,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_5_Pocket_Flex_Terry_Pant_Slim_Straight_Faded_Black-Final-Final-Web-v2_2eceaf04-8f03-4458-9dce-d2df031223d0.jpg?v=1784666343",
    "productUrl": "https://www.marinelayer.com/products/5-pocket-flex-terry-pant-slim-straight-6",
-   "price": 148.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 148.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213632614474",
@@ -1728,9 +2128,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Saturday_Twill_Chino_Slim_Straight_Navy-Final-Final-Web-v2.jpg?v=1784667729",
    "productUrl": "https://www.marinelayer.com/products/saturday-twill-chino-slim-straight-7",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213632548938",
@@ -1741,9 +2143,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Saturday_Twill_Chino_Slim_Straight_Navy-Final-Final-Web-v2_8c04800d-bd5f-4f16-b99a-ffdd61bda6bc.jpg?v=1784667731",
    "productUrl": "https://www.marinelayer.com/products/saturday-twill-chino-athletic-fit-7",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213632417866",
@@ -1754,9 +2158,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Saturday_Camp_Pant_Straight_Fit_Tobacco-Final-Final-Web-v2.jpg?v=1784667689",
    "productUrl": "https://www.marinelayer.com/products/saturday-camp-pant-straight-fit-1",
-   "price": 128.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 111.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 128.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213632024650",
@@ -1767,9 +2173,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_The_Rowan_Pleated_Trouser_Relaxed_Fit_Stone-Final-Final-Web.jpg?v=1784571613",
    "productUrl": "https://www.marinelayer.com/products/the-rowan-pleated-trouser-relaxed-fit-1",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213631795274",
@@ -1780,9 +2188,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_5_Pocket_Flex_Terry_Pant_Slim_Straight_Daisy_Brown-Final-Final-Web-v2.jpg?v=1784666309",
    "productUrl": "https://www.marinelayer.com/products/5-pocket-flex-terry-pant-slim-straight-5",
-   "price": 148.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 148.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213631696970",
@@ -1793,9 +2203,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Woven_Lounge_Short_Brown_Houndstooth-Final-Final-Web.jpg?v=1784571666",
    "productUrl": "https://www.marinelayer.com/products/woven-lounge-short-2",
-   "price": 48.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 42.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 48.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213631467594",
@@ -1806,9 +2218,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Classic_Stretch_Selvage_Shirt_White_Navy_Check-Final-Final-Web.jpg?v=1784569150",
    "productUrl": "https://www.marinelayer.com/products/classic-stretch-selvage-shirt-72",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213631434826",
@@ -1819,9 +2233,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Classic_Stretch_Selvage_Shirt_Navy_Windowpane-Final-Final-Web-v2.jpg?v=1784666387",
    "productUrl": "https://www.marinelayer.com/products/classic-stretch-selvage-shirt-71",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213631402058",
@@ -1830,11 +2246,13 @@
    "category": "shirt",
    "color": "green",
    "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Classic_Stretch_Selvage_Shirt_Green_Purple_Multi_Plaid-Final-Final-Web-2.jpg?v=1784819069",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Classic_Stretch_Selvage_Shirt_Green_Purple_Multi_Plaid-Final-Final-Web-2_eb9ae06b-5888-4e83-a973-3e3a1771a814.jpg?v=1785180548",
    "productUrl": "https://www.marinelayer.com/products/classic-stretch-selvage-shirt-70",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213631041610",
@@ -1845,9 +2263,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Patrick_Overshirt_French_Blue-Final-Final-Web-v2.jpg?v=1784666844",
    "productUrl": "https://www.marinelayer.com/products/patrick-overshirt-1",
-   "price": 168.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 146.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 168.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630976074",
@@ -1858,9 +2278,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Patrick_Overshirt_Faded_Black-Final-Final-Web-v2.jpg?v=1784666841",
    "productUrl": "https://www.marinelayer.com/products/patrick-overshirt",
-   "price": 168.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 146.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 168.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630713930",
@@ -1871,9 +2293,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/20260623-ML-Laydowns19874-Final-Final-Web.jpg?v=1784568554",
    "productUrl": "https://www.marinelayer.com/products/california-oxford-shirt-18",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630648394",
@@ -1884,9 +2308,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_California_Oxford_Shirt_Navy_Stripe-Final-Final-Web.jpg?v=1784568513",
    "productUrl": "https://www.marinelayer.com/products/california-oxford-shirt-17",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630582858",
@@ -1897,9 +2323,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_California_Oxford_Shirt_Blue-Final-Final-Web.jpg?v=1784568463",
    "productUrl": "https://www.marinelayer.com/products/california-oxford-shirt-15",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630550090",
@@ -1910,9 +2338,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Classic_Stretch_Selvage_Shirt_Burgundy_Blue_Gingham-Final-Final-Web.jpg?v=1784568866",
    "productUrl": "https://www.marinelayer.com/products/classic-stretch-selvage-shirt-68",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630451786",
@@ -1923,9 +2353,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Better_Than_Linen_Shirt_Mint_White_Stripe-Final-Final-Web.jpg?v=1784239792",
    "productUrl": "https://www.marinelayer.com/products/better-than-linen-shirt-19",
-   "price": 118.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 103.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 118.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630255178",
@@ -1936,9 +2368,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Flex_Terry_Traveler_Jacket_Navy-Final-Final-Web-v2_291fb393-2303-4216-8328-f3e779a35177.jpg?v=1784666532",
    "productUrl": "https://www.marinelayer.com/products/flex-terry-traveler-jacket",
-   "price": 178.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 155.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 178.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630189642",
@@ -1949,9 +2383,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Flex_Terry_Blazer_Deep_Navy-Final-Final-Web-v2.jpg?v=1784666514",
    "productUrl": "https://www.marinelayer.com/products/flex-terry-blazer-1",
-   "price": 198.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 172.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 198.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630156874",
@@ -1962,9 +2398,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Flex_Terry_Blazer_Dark_Khaki-Final-Final-Web-v2.jpg?v=1784666510",
    "productUrl": "https://www.marinelayer.com/products/flex-terry-blazer",
-   "price": 198.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 172.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 198.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213630058570",
@@ -1975,9 +2413,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_The_Pierce_Ripstop_Windbreaker_Dark_Green-Final-Final-Web-v2.jpg?v=1784667797",
    "productUrl": "https://www.marinelayer.com/products/the-pierce-ripstop-windbreaker",
-   "price": 178.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 155.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 178.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213629927498",
@@ -1988,9 +2428,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Cloud_9_Fleece_Hoodie_Mood_Indigo_Colorblock-Final-Final-Web-v2.jpg?v=1784666890",
    "productUrl": "https://www.marinelayer.com/products/relaxed-cloud-9-fleece-hoodie-18",
-   "price": 118.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 103.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 118.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213629861962",
@@ -2001,9 +2443,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Cloud_9_Fleece_Hoodie_Brown_Colorblock-Final-Final-Web-v2.jpg?v=1784666886",
    "productUrl": "https://www.marinelayer.com/products/relaxed-cloud-9-fleece-hoodie-17",
-   "price": 118.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 103.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 118.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213629796426",
@@ -2014,9 +2458,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_5_Pocket_Flex_Terry_Pant_Slim_Straight_True_Navy-Final-Final-Web-v2.jpg?v=1784666356",
    "productUrl": "https://www.marinelayer.com/products/5-pocket-flex-terry-pant-slim-straight-4",
-   "price": 148.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 148.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213629763658",
@@ -2027,9 +2473,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Cloud_9_Fleece_Hoodie_Copen_Blue-Final-Final-Web-v2.jpg?v=1784666883",
    "productUrl": "https://www.marinelayer.com/products/relaxed-cloud-9-fleece-hoodie-16",
-   "price": 118.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 103.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 118.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213629665354",
@@ -2040,9 +2488,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Cloud_9_Fleece_Hoodie_Balsam_Green-Final-Final-Web-v2.jpg?v=1784666880",
    "productUrl": "https://www.marinelayer.com/products/relaxed-cloud-9-fleece-hoodie-15",
-   "price": 118.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 103.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 118.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213629468746",
@@ -2053,9 +2503,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Liam_Sweater_Polo_Red_Navy_Stripe-Final-Final-Web-v2.jpg?v=1784666645",
    "productUrl": "https://www.marinelayer.com/products/liam-sweater-polo-30",
-   "price": 128.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 111.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 128.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213629435978",
@@ -2066,9 +2518,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Garment_Dye_Roll_Neck_Sweater_Mood_Indigo-Final-Final-Web-v2.jpg?v=1784666571",
    "productUrl": "https://www.marinelayer.com/products/garment-dye-roll-neck-sweater-2",
-   "price": 138.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 120.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 138.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213628813386",
@@ -2079,9 +2533,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Liam_Sweater_Polo_Navy_Sunset_Stripe-Final-Final-Web-v2.jpg?v=1784666649",
    "productUrl": "https://www.marinelayer.com/products/liam-sweater-polo-27",
-   "price": 128.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 111.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 128.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627863114",
@@ -2092,9 +2548,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Cloud_9_Terry_Crewneck_Copen_Blue-Final-Final-Web-v2.jpg?v=1784667586",
    "productUrl": "https://www.marinelayer.com/products/relaxed-cloud-9-terry-crewneck-10",
-   "price": 108.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 94.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 108.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627797578",
@@ -2105,9 +2563,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Cloud_9_Terry_Crewneck_Garnet_Rose-Final-Final-Web-v2.jpg?v=1784667590",
    "productUrl": "https://www.marinelayer.com/products/relaxed-cloud-9-terry-crewneck-9",
-   "price": 108.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 94.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 108.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627732042",
@@ -2118,9 +2578,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Cloud_9_Terry_Crewneck_Navy_Sunset_Stripe-Final-Final-Web-v2.jpg?v=1784667593",
    "productUrl": "https://www.marinelayer.com/products/relaxed-cloud-9-terry-crewneck-8",
-   "price": 108.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 94.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 108.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627699274",
@@ -2131,9 +2593,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Cloud_9_Terry_Crewneck_Heather_Grey_Stripe-Final-Final-Web.jpg?v=1784570932",
    "productUrl": "https://www.marinelayer.com/products/relaxed-cloud-9-terry-crewneck-7",
-   "price": 108.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 94.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 108.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627633738",
@@ -2144,9 +2608,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Cloud_9_Terry_Crewneck_Balsam_Green_Stripe-Final-Final-Web.jpg?v=1784573867",
    "productUrl": "https://www.marinelayer.com/products/relaxed-cloud-9-terry-crewneck-6",
-   "price": 108.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 94.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 108.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627600970",
@@ -2157,9 +2623,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Polo_Winetasting-Final-Final-Web.jpg?v=1784569540",
    "productUrl": "https://www.marinelayer.com/products/everyday-sport-polo-2",
-   "price": 68.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 59.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 68.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627535434",
@@ -2170,9 +2638,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Polo_Charcoal_Heather-Final-Final-Web-v2.jpg?v=1784666412",
    "productUrl": "https://www.marinelayer.com/products/everyday-sport-polo-1",
-   "price": 68.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 59.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 68.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627502666",
@@ -2183,9 +2653,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Tee_Sky_Captain_25570-Final-Web.jpg?v=1784569642",
    "productUrl": "https://www.marinelayer.com/products/everyday-sport-tee-4",
-   "price": 54.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 47.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 54.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627437130",
@@ -2196,9 +2668,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Tee_Citadel_Heather-Final-Final-Web.jpg?v=1784569611",
    "productUrl": "https://www.marinelayer.com/products/everyday-sport-tee-3",
-   "price": 54.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 47.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 54.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627404362",
@@ -2209,9 +2683,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Tee_Charcoal_Heather-Final-Final-Web-v2.jpg?v=1784666451",
    "productUrl": "https://www.marinelayer.com/products/everyday-sport-tee-2",
-   "price": 54.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 47.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 54.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "marinelayer-8213627306058",
@@ -2222,126 +2698,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Polo_Sky_Captain-Final-Final-Web-v2.jpg?v=1784666426",
    "productUrl": "https://www.marinelayer.com/products/everyday-sport-polo",
-   "price": 68.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "marinelayer-8213627273290",
-   "brand": "Marine Layer",
-   "name": "Everyday Sport Tee",
-   "category": "tshirt",
-   "color": "navy",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Tee_Vintage_Indigo_Heather-Final-Final-Web.jpg?v=1784569703",
-   "productUrl": "https://www.marinelayer.com/products/everyday-sport-tee-1",
-   "price": 54.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "marinelayer-8213627207754",
-   "brand": "Marine Layer",
-   "name": "Everyday Sport Tee",
-   "category": "tshirt",
-   "color": "gray",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Tee_Winetasting_Heather-Final-Final-Web-v2.jpg?v=1784666456",
-   "productUrl": "https://www.marinelayer.com/products/everyday-sport-tee",
-   "price": 54.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "marinelayer-8213627109450",
-   "brand": "Marine Layer",
-   "name": "Everyday Sport Graphic Tee",
-   "category": "tshirt",
-   "color": "blue",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Tee_Sky_Captain-Final-Final-Web-v2.jpg?v=1784666480",
-   "productUrl": "https://www.marinelayer.com/products/everyday-sport-graphic-tee-2",
-   "price": 54.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "marinelayer-8213627076682",
-   "brand": "Marine Layer",
-   "name": "Everyday Sport Graphic Tee",
-   "category": "tshirt",
-   "color": "gray",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Graphic_Tee_Heather_Grey-Final-Final-Web.jpg?v=1784569364",
-   "productUrl": "https://www.marinelayer.com/products/everyday-sport-graphic-tee-1",
-   "price": 54.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "marinelayer-8213627011146",
-   "brand": "Marine Layer",
-   "name": "Everyday Sport Graphic Tee",
-   "category": "tshirt",
-   "color": "gray",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Everyday_Sport_Graphic_Tee_Deep_Sea-Final-Final-Web.jpg?v=1784573341",
-   "productUrl": "https://www.marinelayer.com/products/everyday-sport-graphic-tee",
-   "price": 54.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "marinelayer-8213626978378",
-   "brand": "Marine Layer",
-   "name": "Luxe Slub Polo",
-   "category": "shorts",
-   "color": "navy",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Luxe_Slub_Polo_Navy_White-Final-Final-Web.jpg?v=1784570630",
-   "productUrl": "https://www.marinelayer.com/products/luxe-slub-polo-2",
-   "price": 84.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "marinelayer-8213626749002",
-   "brand": "Marine Layer",
-   "name": "Hemp Cotton Relaxed Graphic Tee",
-   "category": "tshirt",
-   "color": "white",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Hemp_Graphic_Tee_Whitecap-Final-Final-Web.jpg?v=1784571161",
-   "productUrl": "https://www.marinelayer.com/products/relaxed-hemp-graphic-tee-6",
-   "price": 58.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "marinelayer-8213626716234",
-   "brand": "Marine Layer",
-   "name": "Hemp Cotton Relaxed Graphic Tee",
-   "category": "tshirt",
-   "color": "navy",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Relaxed_Hemp_Graphic_Tee_Soft_Chambray-Final-Final-Web-v2.jpg?v=1784667662",
-   "productUrl": "https://www.marinelayer.com/products/relaxed-hemp-graphic-tee-5",
-   "price": 58.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "marinelayer-8213626617930",
-   "brand": "Marine Layer",
-   "name": "Luxe Slub Pocket Tee",
-   "category": "tshirt",
-   "color": "white",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_M_Luxe_Slub_Pocket_Tee_White-Final-Final-Web.jpg?v=1784570551",
-   "productUrl": "https://www.marinelayer.com/products/luxe-slub-pocket-tee-5",
-   "price": 64.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 59.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 68.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "publicdesire-15797031436671",
@@ -2352,9 +2713,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PDRE17976-0.jpg?v=1784629235",
    "productUrl": "https://www.publicdesire.com/products/flared-long-sleeve-floral-lace-mini-dress-blue",
-   "price": 36.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 42.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 36.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15797031403903",
@@ -2365,9 +2728,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PSHO17975-0.jpg?v=1784629045",
    "productUrl": "https://www.publicdesire.com/products/floral-lace-hot-pant-micro-shorts-pink",
-   "price": 25.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 29.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 25.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15797031371135",
@@ -2378,9 +2743,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PTOP17974-0.jpg?v=1784628918",
    "productUrl": "https://www.publicdesire.com/products/long-sleeve-sheer-printed-floral-lace-scoop-neck-top-pink",
-   "price": 28.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 33.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 28.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15797031141759",
@@ -2391,9 +2758,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PTOP17972-0.jpg?v=1784626952",
    "productUrl": "https://www.publicdesire.com/products/halterneck-gingham-crop-top-red-and-white",
-   "price": 25.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 29.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 25.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15797031043455",
@@ -2404,9 +2773,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PTOP17970--0.jpg?v=1784626674",
    "productUrl": "https://www.publicdesire.com/products/gingham-lace-trim-bandeau-top-blue-and-white",
-   "price": 25.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 29.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 25.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15449171165567",
@@ -2417,9 +2788,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/ALUNATAN-1.jpg?v=1783430197",
    "productUrl": "https://www.publicdesire.com/products/aluna-tan-faux-suede-wooden-wedge-heels",
-   "price": 35.99,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 42.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 35.99,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15463177290111",
@@ -2430,9 +2803,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/STOCKHOLMTAN-1.jpg?v=1783430137",
    "productUrl": "https://www.publicdesire.com/products/stockholme-tan-faux-suede-fold-over-knee-high-boots",
-   "price": 59.99,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 59.99,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15463177257343",
@@ -2443,9 +2818,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/ALLEGEDLYGOLD-1.jpg?v=1783430110",
    "productUrl": "https://www.publicdesire.com/products/allegedly-gold-cut-out-detail-ankle-strap-court-shoes",
-   "price": 29.99,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 35.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 29.99,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15463177159039",
@@ -2456,9 +2833,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/LUMIGOLD-1.jpg?v=1783430023",
    "productUrl": "https://www.publicdesire.com/products/lumi-gold-starfish-detail-tie-high-heels",
-   "price": 32.99,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 38.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 32.99,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15463177126271",
@@ -2469,9 +2848,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/CELIABROWN-1.jpg?v=1783429994",
    "productUrl": "https://www.publicdesire.com/products/celia-brown-western-knee-high-boots",
-   "price": 59.99,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 70.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 59.99,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15463177093503",
@@ -2482,9 +2863,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/ROOFTOPTAUPE-1.jpg?v=1783429962",
    "productUrl": "https://www.publicdesire.com/products/rooftop-taupe-faux-suede-vintage-knee-high-biker-boots",
-   "price": 49.99,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 58.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 49.99,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15463177060735",
@@ -2495,9 +2878,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/MarcelGold-1_946d5221-f171-4ebf-a689-e72fb32f2d4d.jpg?v=1784199524",
    "productUrl": "https://www.publicdesire.com/products/marcel-gold-strappy-ankle-tie-high-heels",
-   "price": 29.99,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 35.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 29.99,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-7630058881217",
@@ -2508,9 +2893,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/ULTRACHICPINKDIAMOTE-1.jpg?v=1760389817",
    "productUrl": "https://www.publicdesire.com/products/ultra-chic-pink-diamonte",
-   "price": 10.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 12.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 10.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-7630058848449",
@@ -2521,9 +2908,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/ULTRACHICKBLACKDIAMONTE-1.jpg?v=1760389892",
    "productUrl": "https://www.publicdesire.com/products/ultra-chic-black-diamonte",
-   "price": 10.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 12.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 10.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15102987993471",
@@ -2534,9 +2923,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/VIX-BLACK-1.jpg?v=1749208717",
    "productUrl": "https://www.publicdesire.com/products/vix-black-patent-flower-detail-mule-mid-heel",
-   "price": 8.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 9.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 8.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15548643017087",
@@ -2547,9 +2938,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PSKI14621-1.jpg?v=1780567022",
    "productUrl": "https://www.publicdesire.com/products/public-desire-embelished-sequin-cowl-neck-crop-top-pink",
-   "price": 36.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 42.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 36.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15548642951551",
@@ -2560,9 +2953,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PTOP14620-1.jpg?v=1780566800",
    "productUrl": "https://www.publicdesire.com/products/public-desire-mid-rise-flower-embellished-skirt-sequin-pink",
-   "price": 31.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 36.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 31.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15692997853567",
@@ -2573,9 +2968,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PTOP169911.jpg?v=1781176324",
    "productUrl": "https://www.publicdesire.com/products/halterneck-luxe-slinky-top-polka-dot-black-white",
-   "price": 32.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 37.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 32.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15692998082943",
@@ -2586,9 +2983,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PSHO169971.jpg?v=1781176235",
    "productUrl": "https://www.publicdesire.com/products/high-waist-luxe-slinky-mini-hot-pants-polka-dot-black-white",
-   "price": 25.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 29.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 25.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15692997984639",
@@ -2599,9 +2998,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PTOP169941.jpg?v=1781176108",
    "productUrl": "https://www.publicdesire.com/products/halterneck-luxe-slinky-top-grey-marl",
-   "price": 22.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 26.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 22.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15692998050175",
@@ -2612,9 +3013,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PSHO169961.jpg?v=1781175919",
    "productUrl": "https://www.publicdesire.com/products/high-waist-luxe-slinky-mini-hot-pants-black",
-   "price": 25.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 29.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 25.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15692997722495",
@@ -2625,9 +3028,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PTOP169471.jpg?v=1781175456",
    "productUrl": "https://www.publicdesire.com/products/hotfix-high-neck-luxe-slinky-crop-top-blue",
-   "price": 28.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 33.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 28.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15692997788031",
@@ -2638,9 +3043,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PTOP169491.jpg?v=1781175677",
    "productUrl": "https://www.publicdesire.com/products/hotfix-halterneck-luxe-slinky-top-pink",
-   "price": 28.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 33.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 28.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15548657729919",
@@ -2651,9 +3058,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/09.04.26PDIBIZA_86_e0150422-4b65-41af-9978-6bef62a6f20b.jpg?v=1779353551",
    "productUrl": "https://www.publicdesire.com/products/lace-up-corset-bodice-textured-mini-dress",
-   "price": 55.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 64.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 55.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-10426788249793",
@@ -2664,9 +3073,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/DISCOBALLBLACKGLITTER-1.jpg?v=1777457943",
    "productUrl": "https://www.publicdesire.com/products/disco-ball-black-glitter",
-   "price": 36.99,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 43.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 36.99,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15639776133503",
@@ -2677,9 +3088,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PSHO15107-1.jpg?v=1778594514",
    "productUrl": "https://www.publicdesire.com/products/high-waisted-satin-shorts-in-white",
-   "price": 28.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 33.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 28.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15639776035199",
@@ -2690,9 +3103,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PTOP15106-1.jpg?v=1778594481",
    "productUrl": "https://www.publicdesire.com/products/corset-top-with-boning-detail-and-bows-straps-in-white",
-   "price": 30.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 35.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 30.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15639776002431",
@@ -2703,9 +3118,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PDRE14468-1_d83f2146-8970-4484-8edc-874d60dfb743.jpg?v=1778765945",
    "productUrl": "https://www.publicdesire.com/products/public-desire-satin-swing-dress-with-corsage",
-   "price": 24.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 28.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 24.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-15639775936895",
@@ -2716,9 +3133,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/PDRE15104-1.jpg?v=1778765960",
    "productUrl": "https://www.publicdesire.com/products/diamante-strap-detail-sequin-mini-dress",
-   "price": 38.0,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 44.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 38.0,
+   "currencyOriginal": "GBP"
   },
   {
    "id": "publicdesire-10426788446401",
@@ -2729,9 +3148,221 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/6584/3821/files/RENAISSEANCEHOTPINK-1.jpg?v=1777458058",
    "productUrl": "https://www.publicdesire.com/products/renaissance-hot-pink-satin",
-   "price": 34.99,
-   "currency": "GBP",
-   "source": "scrape"
+   "price": 41.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 34.99,
+   "currencyOriginal": "GBP"
+  },
+  {
+   "id": "thursdayboots-8042879090778",
+   "brand": "Thursday Boots",
+   "name": "[S] Logger | Black Matte",
+   "category": "boots",
+   "color": "black",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Men-Logger-BlackMatte-121222-3.4.jpg?v=1785190970",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_mens-logger-lace-up-boot-black-matte",
+   "price": 226.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 260.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042877255770",
+   "brand": "Thursday Boots",
+   "name": "[S] President | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-President-Black-071023-3.4.jpg?v=1785190945",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_mens-black-president",
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 149.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042893705306",
+   "brand": "Thursday Boots",
+   "name": "[S] Cadet | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Mens-Cadet-Black-083023-3.4_4e403beb-ac22-4a2d-93c.jpg?v=1785191195",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_mens-cadet-lace-up-boot-black",
+   "price": 123.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 142.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042881351770",
+   "brand": "Thursday Boots",
+   "name": "[S] Major | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/03-1024x1024-Men-Major-Black-Lug-072821-3.4.jpg?v=1785191009",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_mens-major-lug-sole-zip-up-boot-black",
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 149.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042876371034",
+   "brand": "Thursday Boots",
+   "name": "[S] Stomper | Black Cherry",
+   "category": "boots",
+   "color": "black",
+   "gender": "men",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Mens-Stomper-BlackCherry-031924-Flatlay1_d0b6c6e0.jpg?v=1785190931",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_mens-stomper-zip-up-boot-black-cherry",
+   "price": 153.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 176.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042891247706",
+   "brand": "Thursday Boots",
+   "name": "[S] High Standard | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Womens-HighStandard-Black-040523-Side.jpg?v=1785191153",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_womens-high-standard-heel-black-leather",
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 149.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042892165210",
+   "brand": "Thursday Boots",
+   "name": "[S] Quest | Black Matte",
+   "category": "boots",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Womens-Quest-Black-082423-Side.jpg?v=1785191169",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_womens-quest-combat-platform-boot-black-matte",
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 149.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042882924634",
+   "brand": "Thursday Boots",
+   "name": "[S] Ryder Platform | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Womens-Ryder-Platform-Black-081822-Side.jpg?v=1785191033",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_womens-ryder-platform-zip-up-boot-black",
+   "price": 117.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 135.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042885382234",
+   "brand": "Thursday Boots",
+   "name": "[S] Quest | Dark Chocolate",
+   "category": "boots",
+   "color": "brown",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Womens-Quest-DarkChocolate-082423-Side.jpg?v=1785191071",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_womens-quest-combat-platform-boot-dark-chocolate",
+   "price": 129.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 149.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042867523674",
+   "brand": "Thursday Boots",
+   "name": "[S] Reign | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Womens-Reign-Black-112123-Side_24ac7bcb-393a-4ed0.jpg?v=1785190799",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_womens-reign-chelsea-boot-black",
+   "price": 109.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 126.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042888298586",
+   "brand": "Thursday Boots",
+   "name": "[S] Knockout | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Womens-Knockout-Black-081523-Side.jpg?v=1785191112",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_womens-knockout-chelsea-boot-black-leather",
+   "price": 109.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 126.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042880532570",
+   "brand": "Thursday Boots",
+   "name": "[S] Crown | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Women-Crown-Black-011923-Side.jpg?v=1785190995",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_womens-crown-zip-up-riding-boot-black",
+   "price": 153.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 176.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042890297434",
+   "brand": "Thursday Boots",
+   "name": "[S] Downtown | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Women-Downtown-Black-082021-Side.jpg?v=1785191140",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_womens-downtown-bootie-black",
+   "price": 97.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 112.0,
+   "currencyOriginal": "USD"
+  },
+  {
+   "id": "thursdayboots-8042878206042",
+   "brand": "Thursday Boots",
+   "name": "[S] Uptown | Black",
+   "category": "boots",
+   "color": "black",
+   "gender": "women",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/01-1024x1024-Womens-Uptown-Black-091922-Side.jpg?v=1785190957",
+   "productUrl": "https://thursdayboots.com/products/_thrscnd_womens-uptown-bootie-black",
+   "price": 117.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 135.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7887914041434",
@@ -2742,9 +3373,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-LinenCampShirt-WhiteIndigo-052826-Front_bf9a2e5e-c047-4c61-a3cf-ce9b32bea1be.jpg?v=1782147556",
    "productUrl": "https://thursdayboots.com/products/mens-linen-camp-shirt-white-indigo",
-   "price": 98.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 85.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 98.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7887911845978",
@@ -2755,9 +3388,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-LinenCampShirt-LightBlue-052826-Front.jpg?v=1782147429",
    "productUrl": "https://thursdayboots.com/products/mens-linen-camp-shirt-light-blue",
-   "price": 98.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 85.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 98.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7887909388378",
@@ -2768,9 +3403,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-LinenCampShirt-White-052826-Front.jpg?v=1782146367",
    "productUrl": "https://thursdayboots.com/products/mens-linen-camp-shirt-white",
-   "price": 98.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 85.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 98.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7887897886810",
@@ -2781,9 +3418,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-LinenCampShirt-Olive-052826-Front.jpg?v=1782145973",
    "productUrl": "https://thursdayboots.com/products/mens-linen-camp-shirt-olive",
-   "price": 98.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 85.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 98.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7867950039130",
@@ -2794,9 +3433,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-Vesper-DarkBrown-033126-Side.jpg?v=1779119400",
    "productUrl": "https://thursdayboots.com/products/womens-vesper-knee-high-riding-boot-dark-brown",
-   "price": 245.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 213.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 245.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7868037890138",
@@ -2807,9 +3448,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-Soleil-SnowWhite-033126-Side_297a81a8-545f-4d39-a942-46c2982fd2ff.jpg?v=1779304609",
    "productUrl": "https://thursdayboots.com/products/womens-soleil-knee-high-riding-boot-snow-white",
-   "price": 235.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 204.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 235.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7868036481114",
@@ -2820,9 +3463,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-Soleil-DarkBrown-033126-Side_33f2f1ec-2d5b-4f70-878a-418ab537fe79.jpg?v=1779304651",
    "productUrl": "https://thursdayboots.com/products/womens-soleil-knee-high-riding-boot-dark-brown",
-   "price": 235.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 204.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 235.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7868022685786",
@@ -2833,9 +3478,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-Soleil-Black-033126-Side_effb02bf-8321-4dd6-8fba-fee34079c0b1.jpg?v=1779304737",
    "productUrl": "https://thursdayboots.com/products/womens-soleil-knee-high-riding-boot-black",
-   "price": 235.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 204.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 235.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7858471731290",
@@ -2846,9 +3493,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-Vesper-Black-033126-Side.jpg?v=1775509647",
    "productUrl": "https://thursdayboots.com/products/womens-vesper-knee-high-riding-boot-black",
-   "price": 245.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 213.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 245.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7824259350618",
@@ -2859,9 +3508,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-Era-Forest-030426-3.4.jpg?v=1776096863",
    "productUrl": "https://thursdayboots.com/products/mens-era-leather-sneaker-forest",
-   "price": 140.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 122.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 140.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7824210231386",
@@ -2872,9 +3523,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-Era-WhiteNavy-030426-3.4.jpg?v=1776096061",
    "productUrl": "https://thursdayboots.com/products/mens-era-leather-sneaker-navy",
-   "price": 140.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 122.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 140.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7858505154650",
@@ -2885,9 +3538,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-Regent-BlackSilver-033126-Side.jpg?v=1775511060",
    "productUrl": "https://thursdayboots.com/products/womens-regent-knee-high-riding-boot-black-silver",
-   "price": 265.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 230.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 265.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7858487427162",
@@ -2898,9 +3553,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-Regent-BlackGold-033126-Side.jpg?v=1775510517",
    "productUrl": "https://thursdayboots.com/products/womens-regent-knee-high-riding-boot-black-gold",
-   "price": 265.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 230.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 265.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7824129720410",
@@ -2911,9 +3568,11 @@
    "gender": "men",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-Encore-WhiteBlack-020426-3.4.jpg?v=1773692023",
    "productUrl": "https://thursdayboots.com/products/mens-encore-low-top-sneaker-white-black",
-   "price": 140.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 122.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 140.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7803874934874",
@@ -2924,9 +3583,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-SuedeWesternJacket-Taupe-031626-1.jpg?v=1774285870",
    "productUrl": "https://thursdayboots.com/products/womens-suede-western-jacket-taupe",
-   "price": 360.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 313.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 360.0,
+   "currencyOriginal": "USD"
   },
   {
    "id": "thursdayboots-7803853701210",
@@ -2937,191 +3598,11 @@
    "gender": "women",
    "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-SuedeWesternJacket-Brown-012226-1_b5b2bce8-30cf-4023-b82f-e2aaadc7bf7e.jpg?v=1774285171",
    "productUrl": "https://thursdayboots.com/products/womens-suede-western-jacket-brown",
-   "price": 360.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7805029777498",
-   "brand": "Thursday Boots",
-   "name": "Major League Jacket | Blue Textured",
-   "category": "jacket",
-   "color": "red",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/2048x2048-Women-MajorLeague-DenimSuede-121825-1.jpg?v=1773677076",
-   "productUrl": "https://thursdayboots.com/products/womens-major-league-jacket-blue-textured-leather",
-   "price": 360.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7804033138778",
-   "brand": "Thursday Boots",
-   "name": "Court | Tobacco",
-   "category": "sneakers",
-   "color": "brown",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-Court-Tobacco-012926-3.4.jpg?v=1772490623",
-   "productUrl": "https://thursdayboots.com/products/mens-court-sneaker-tobacco-leather",
-   "price": 140.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7804049162330",
-   "brand": "Thursday Boots",
-   "name": "Diplomat | Black",
-   "category": "boots",
-   "color": "black",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-Diplomat-Black-022426-3.4.jpg?v=1773074905",
-   "productUrl": "https://thursdayboots.com/products/mens-diplomat-moc-toe-boot-black-leather",
-   "price": 199.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7803925823578",
-   "brand": "Thursday Boots",
-   "name": "Dakota Shirt Jacket | Taupe",
-   "category": "jacket",
-   "color": "beige",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-DakotaJacket-Taupe-022226-1.jpg?v=1772563457",
-   "productUrl": "https://thursdayboots.com/products/womens-dakota-shirt-jacket-taupe-suede",
-   "price": 360.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7803890958426",
-   "brand": "Thursday Boots",
-   "name": "Dakota Shirt Jacket | Brown",
-   "category": "jacket",
-   "color": "brown",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-DakotaJacket-Brown-022226-1.jpg?v=1772563321",
-   "productUrl": "https://thursdayboots.com/products/womens-dakota-shirt-jacket-brown-suede",
-   "price": 360.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7786486464602",
-   "brand": "Thursday Boots",
-   "name": "Diplomat | Coffee",
-   "category": "boots",
-   "color": "brown",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-DIplomat-Coffee-112425-3.4_3f35af0d-f85d-4aba-b154-3cc4237373f1.jpg?v=1771427948",
-   "productUrl": "https://thursdayboots.com/products/mens-diplomat-moc-toe-boot-coffee",
-   "price": 199.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7763445710938",
-   "brand": "Thursday Boots",
-   "name": "Camino Jacket | Black",
-   "category": "jacket",
-   "color": "black",
-   "gender": "women",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Women-CaminoJacket-Black-121025-1.jpg?v=1770058711",
-   "productUrl": "https://thursdayboots.com/products/womens-camino-leather-jacket-black",
-   "price": 360.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7749364613210",
-   "brand": "Thursday Boots",
-   "name": "Encore | Shadow Grey",
-   "category": "sneakers",
-   "color": "gray",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-Encore-ShadowGrey-122225-3.4.jpg?v=1769013773",
-   "productUrl": "https://thursdayboots.com/products/mens-encore-low-top-sneaker-shadow-grey-suede",
-   "price": 140.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7749390762074",
-   "brand": "Thursday Boots",
-   "name": "Encore | Dark Olive Suede",
-   "category": "sneakers",
-   "color": "green",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-Encore-DarkOliveSuede-011526-3.4.jpg?v=1769024351",
-   "productUrl": "https://thursdayboots.com/products/mens-encore-low-top-sneaker-dark-olive-suede",
-   "price": 140.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7763416383578",
-   "brand": "Thursday Boots",
-   "name": "Ranger Jacket | Khaki",
-   "category": "jacket",
-   "color": "beige",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/2048x2048-Men-Ranger-Khaki-011526-1.jpg?v=1770056332",
-   "productUrl": "https://thursdayboots.com/products/mens-ranger-dry-waxed-canvas-jacket-khaki",
-   "price": 240.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7763390824538",
-   "brand": "Thursday Boots",
-   "name": "Ranger Jacket | Black",
-   "category": "jacket",
-   "color": "black",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-Ranger-Black-011526-1.jpg?v=1770054488",
-   "productUrl": "https://thursdayboots.com/products/mens-ranger-dry-waxed-canvas-jacket-black",
-   "price": 240.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7746974744666",
-   "brand": "Thursday Boots",
-   "name": "Racer Jacket | Dark Olive Suede",
-   "category": "jacket",
-   "color": "green",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-RacerJacket-DarkOlive-121825-1.jpg?v=1768842123",
-   "productUrl": "https://thursdayboots.com/products/mens-racer-jacket-dark-olive-suede",
-   "price": 349.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7733057552474",
-   "brand": "Thursday Boots",
-   "name": "CPO Jacket | Black & Grey",
-   "category": "jacket",
-   "color": "black",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/2048x2048-Men-WoolCPOJacket-BlackGrey-120425-1.jpg?v=1768242651",
-   "productUrl": "https://thursdayboots.com/products/mens-cpo-military-jacket-black-grey-wool",
-   "price": 198.0,
-   "currency": "USD",
-   "source": "scrape"
-  },
-  {
-   "id": "thursdayboots-7719429898330",
-   "brand": "Thursday Boots",
-   "name": "Journeyman | Black",
-   "category": "boots",
-   "color": "black",
-   "gender": "men",
-   "imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Men-Journeyman-Black-122225-3.4.jpg?v=1767645756",
-   "productUrl": "https://thursdayboots.com/products/mens-journeyman-wholecut-chelsea-boot-black",
-   "price": 289.0,
-   "currency": "USD",
-   "source": "scrape"
+   "price": 313.0,
+   "currency": "EUR",
+   "source": "scrape",
+   "priceOriginal": 360.0,
+   "currencyOriginal": "USD"
   }
  ]
 }
